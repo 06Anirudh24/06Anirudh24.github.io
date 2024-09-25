@@ -1,6 +1,7 @@
 
 <!-- ![Picture](docs/assets/IMG_0450.JPG) -->
-<img src="docs/assets/IMG_6547.jpg" width="30%">
+<img src="docs/assets/IMG_6547.jpg" style="border-radius: 50%; width: 30%; display: block; margin-left: auto; margin-right: auto;">
+
 
 
 I am a second-year graduate student pursuing a Master's in Computer Science at the University of Massachusetts Amherst. I previously graduated from Birla Institute of Technology and Science, Pilani (BITS Pilani), India, where I pursued a dual major (B.E. in Computer Science and M.Sc. in Mathematics). I'm looking to explore the real-world applications of data science and machine learning, particularly in areas that fall at the intersection of Mathematics and Computer Science. Specifically, I am interested in Natural Language Processing (including studying and evaluating the factuality and hallucination of large language models, personalization of these models, and their multilingual and multimodal capabilities) and the applications of Computer Vision in medicine (such as medical image analysis, autism detection, and psychological testing). I am currently working under the supervision of [Prof. Mohit Iyyer][mohit] at the [UMass NLP Lab][nlplab] and have ongoing projects with [Prof. Hamed Zamani][hamed], [Dr. Haw-Shiuan Chang][hsc], and [Alireza][alireza] at the [Center for Intelligent Information Retrieval (CIIR) Lab][CIIR], as well as with Prof. [Subrata Chakraborty] at the University of New England, Australia. 
