@@ -6,7 +6,7 @@
 <!-- Icons with links -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuser=1" target="_blank">
-    <i class="fas fa-google-scholar" style="font-size: 36px; margin-right: 20px;"></i>
+    <i class="fa-brands fa-google-scholar style="font-size: 36px; margin-right: 20px;"></i>
   </a>
 
   <a href="https://github.com/06Anirudh24" target="_blank">
