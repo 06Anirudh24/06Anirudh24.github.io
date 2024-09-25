@@ -5,15 +5,12 @@
 
 
 <div style="text-align: justify;">
-  
-<div style="text-align: justify;">
 
 I am a second-year graduate student pursuing a Master's in Computer Science at the University of Massachusetts Amherst. I previously graduated from Birla Institute of Technology and Science, Pilani (BITS Pilani), India, where I pursued a dual major (B.E. in Computer Science and M.Sc. in Mathematics). I'm looking to explore the real-world applications of data science and machine learning, particularly in areas that fall at the intersection of Mathematics and Computer Science. Specifically, I am interested in Natural Language Processing (including studying and evaluating the factuality and hallucination of large language models, personalization of these models, and their multilingual and multimodal capabilities) and the applications of Computer Vision in medicine (such as medical image analysis, autism detection, and psychological testing). I am currently working under the supervision of <a href="https://people.cs.umass.edu/~miyyer/">Prof. Mohit Iyyer</a> at the <a href="https://nlp.cs.umass.edu/">UMass NLP Lab</a> and have ongoing projects with <a href="https://groups.cs.umass.edu/zamani/?_gl=1%2Ajpaw2l%2A_gcl_au%2AMTA4MjUyNTEyMS4xNzIzMDI2NTc0%2A_ga%2AMTc3MDAzNjE5Mi4xNjkxMTYwNDcy%2A_ga_21RLS0L7EB%2AMTcyNzIzMDIyMS4zMDMuMC4xNzI3MjMwMjIyLjAuMC4w">Prof. Hamed Zamani</a>, <a href="https://ken77921.github.io/">Dr. Haw-Shiuan Chang</a>, and <a href="https://alirezasalemi7.github.io/">Alireza</a> at the <a href="https://ciir.cs.umass.edu/">Center for Intelligent Information Retrieval (CIIR) Lab</a>, as well as with <a href="https://www.une.edu.au/staff-profiles/science-and-technology/dr-subrata-chakraborty">Prof. Subrata Chakraborty</a> at the University of New England, Australia.
 
 </div>
 
   
-</div>div>
 
 
 
