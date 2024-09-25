@@ -8,7 +8,6 @@ My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuse
 ---
 
 ## 2024
-<a href="#" target="_blank">[Link to Paper]</a>
 
 - **CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints**
   **Authors**: Anirudh Atmakuru*, Jatin Nainani*, Rohith Siddhartha Reddy Bheemreddy*, Anirudh Lakkaraju*, Zonghai Yao, Hamed Zamani, Haw-Shiuan Chang*  
