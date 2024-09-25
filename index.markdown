@@ -1,3 +1,5 @@
+<!-- Include Font Awesome CDN -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <!-- ![Picture](docs/assets/IMG_0450.JPG) -->
 <img src="docs/assets/IMG_6547.jpg" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;">
@@ -10,6 +12,28 @@ I am a second-year graduate student pursuing a Master's in Computer Science at t
 
 </div>
 
+<!-- Icons with links -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://scholar.google.com" target="_blank">
+    <i class="fas fa-graduation-cap" style="font-size: 36px; margin-right: 20px;"></i>
+  </a>
+
+  <a href="your-cv-link" target="_blank">
+    <i class="fas fa-file-alt" style="font-size: 36px; margin-right: 20px;"></i>
+  </a>
+
+  <a href="https://github.com/06Anirudh24" target="_blank">
+    <i class="fab fa-github" style="font-size: 36px; margin-right: 20px;"></i>
+  </a>
+
+  <a href="https://linkedin.com/in/anirudh-atmakuru-a8474b213" target="_blank">
+    <i class="fab fa-linkedin" style="font-size: 36px; margin-right: 20px;"></i>
+  </a>
+
+  <a href="https://twitter.com" target="_blank">
+    <i class="fab fa-twitter" style="font-size: 36px; margin-right: 20px;"></i>
+  </a>
+</div>
   
 
 
