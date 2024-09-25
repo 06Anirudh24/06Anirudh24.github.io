@@ -1,6 +1,6 @@
 
 <!-- ![Picture](docs/assets/IMG_0450.JPG) -->
-<img src="docs/assets/IMG_6547.jpg" style="border-radius: 50%; width: 30%; display: block; margin-left: auto; margin-right: auto;">
+<img src="docs/assets/IMG_6547.jpg" style="border-radius: 50%; width: 50%; display: block; margin-left: auto; margin-right: auto;">
 
 
 
