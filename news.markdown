@@ -1,4 +1,4 @@
-<div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 200px; overflow-y: scroll;">
+<div style="border: 1px solid #ccc; padding: 10px; width: 100%; height: 150px; overflow-y: scroll;">
   <ul>
     <li><strong>Aug. 2024:</strong> Keynote at KDD CUP 2024 RAG workshop</li>
     <li><strong>Jul. 2024:</strong> Papers to appear at COLM 2024 on faithfulness in book summarization and image reproduction via multimodal LLMs</li>
