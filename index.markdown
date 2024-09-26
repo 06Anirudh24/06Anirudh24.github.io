@@ -62,11 +62,11 @@ I am a second-year graduate student pursuing a Master's in Computer Science at t
 <li><strong>November 2022:</strong> Started working with Prof. Rajendra Acharya on medical image analysis using artificial intelligence.</li>
 <li><strong>October 2022:</strong> Paper on the relationship between deep learning models and human personality traits accepted at the Australasian Conference on Information Systems (ACIS).</li>
 <li><strong>October 2022:</strong> Paper on hidden and face-like object detection using deep learning techniques accepted at the International Conference on Digital Image Computing: Techniques and Applications (DICTA).</li>
-<li><strong>August 2022:</strong> Started working on my undergraduate thesis with Prof. Subrata at the University of New England, Australia.</li>
+<li><strong>August 2022:</strong> Started working on my undergraduate thesis with <a href="https://www.une.edu.au/staff-profiles/science-and-technology/dr-subrata-chakraborty">Prof. Subrata</a> at the University of New England, Australia.</li>
 <li><strong>January 2022:</strong> Started working as a data science intern at Epsilon India to generate personalized email subject lines.</li>
-<li><strong>December 2021:</strong> Paper on predicting video game development problems using word embeddings accepted in the <em>Proceedings of ICON 2021: 18th International Conference on Natural Language Processing</em>.</li>
+<li><strong>December 2021:</strong> <a hred="https://aclanthology.org/2021.icon-main.56/">Paper</a> on predicting video game development problems using word embeddings accepted in the <em>Proceedings of ICON 2021: 18th International Conference on Natural Language Processing</em>.</li>
 <li><strong>August 2020:</strong> Appointed as a teaching assistant for the course Elementary Real Analysis at BITS Pilani.</li>
-<li><strong>June 2020:</strong> Published my first paper: "Mathematical modelling and the transmission dynamics in predicting COVID-19" in the journal <em>Infectious Disease Modelling</em> (Q1; IF: 3.0; Cite Score: 18.3).</li>
+<li><strong>June 2020:</strong> Published my first paper on mathematically modeling the spread, peak, and reduction of COVID-19 in the journal <em>Infectious Disease Modelling</em> (Q1; IF: 3.0; Cite Score: 18.3).</li>
 <li><strong>May 2020:</strong> Started working as a summer research intern at Ecom Express, New Delhi, to study travel network optimization using Pyomo.</li>
 <li><strong>January 2020:</strong> Appointed as a teaching assistant for the course Probability and Statistics at BITS Pilani.</li>
 <li><strong>August 2018:</strong> Admitted to Birla Institute of Technology and Science, Pilani (BITS Pilani) for a dual major in Computer Science and Mathematics.</li>
