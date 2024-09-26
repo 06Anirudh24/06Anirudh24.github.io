@@ -49,7 +49,6 @@ I am a second-year graduate student pursuing a Master's in Computer Science at t
 
 
 <!-- News section -->
-<h2>News</h2>
 <div class="news-box">
   <ul>
     <li><strong>Aug. 2024:</strong> Keynote at KDD CUP 2024 RAG workshop</li>
