@@ -49,14 +49,14 @@ I am a second-year graduate student pursuing a Master's in Computer Science at t
 <!-- News section -->
 <div class="news-box">
 <ul>
-<li><strong>September 2024:</strong> Paper accepted at the 6th Workshop on Narrative Understanding at EMNLP 2024.</li>
-<li><strong>September 2024:</strong> Started working on an independent study with Prof. Mohit Iyyer at UMass NLP to study the impact of quantization on factuality and instruction following in long-form text generation.</li>
-<li><strong>August 2024:</strong> Systematic review on the applications of artificial intelligence for suicide detection accepted by the journal <em>Information Fusion</em> (Q1; IF: 14.7; Cite Score: 33.2).</li>
-<li><strong>July 2024:</strong> Systematic review on the applications of deep learning in radiology for lung cancer diagnostics accepted by the journal <em>Expert Systems with Applications</em> (Q1; IF: 7.5; Cite Score: 13.8).</li>
-<li><strong>January 2024:</strong> Collaborating with Amazon on an industry mentorship project to study the impact of prompt specificity on LLMs (advised by Andrew, HSC).</li>
-<li><strong>August 2023:</strong> Started graduate studies (Master’s in Computer Science) at UMass Amherst.</li>
-<li><strong>August 2023:</strong> Graduated from BITS Pilani, India, with a dual major (B.E. Computer Science, M.Sc. Mathematics) and a CGPA of 9.15/10.</li>
-<li><strong>February 2023:</strong> Paper on predicting video game development problems using ensemble techniques accepted at the Innovations in Software Engineering Conference (ISEC) 2023.</li>
+<li><strong>September 2024:</strong> Paper accepted at the 6th Workshop on Narrative Understanding at EMNLP 2024!!</li>
+<li><strong>September 2024:</strong> Started working on an independent study with <a href="https://people.cs.umass.edu/~miyyer/">Prof. Mohit Iyyer</a> at <a href="https://nlp.cs.umass.edu/">UMass NLP</a> to study the impact of LLM quantization on factuality and instruction-following on long-form text generation.</li>
+<li><strong>August 2024:</strong> <a href="https://doi.org/10.1016/j.inffus.2024.102673">Systematic review</a> on the applications of artificial intelligence for suicide detection accepted by the journal <em>Information Fusion</em> (Q1; IF: 14.7; Cite Score: 33.2).</li>
+<li><strong>July 2024:</strong> <a href = "https://doi.org/10.1016/j.eswa.2024.124665">Systematic review</a> on the applications of deep learning in radiology for lung cancer diagnostics accepted by the journal <em>Expert Systems with Applications</em> (Q1; IF: 7.5; Cite Score: 13.8).</li>
+<li><strong>January 2024:</strong> Collaborating with Amazon on an industry mentorship project to study the impact of prompt specificity on LLMs (advised by <a href="https://people.cs.umass.edu/~mccallum/">Prof. Andrew McCallum</a> and <a href="https://ken77921.github.io/">Haw-Shiuan Chang</a>).</li>
+<li><strong>August 2023:</strong> Excited to pursue my second Master's degree - this time in Computer Science at UMass Amherst!</li>
+<li><strong>August 2023:</strong> Graduated with distinction from BITS Pilani, India, with a dual major (B.E. Computer Science, M.Sc. Mathematics) and a CGPA of 9.15/10!</li>
+<li><strong>February 2023:</strong> <a href = "https://dl.acm.org/doi/abs/10.1145/3578527.3578543">Paper</a> on predicting video game development problems using ensemble techniques accepted at the Innovations in Software Engineering Conference (ISEC) 2023.</li>
 <li><strong>January 2023:</strong> Started my internship as a database administrator at First Meridian, Bangalore.</li>
 <li><strong>December 2022:</strong> Presented papers at the DICTA (Sydney) and ACIS (Melbourne) conferences in Australia.</li>
 <li><strong>November 2022:</strong> Started working with <a href = "https://scholar.google.com.sg/citations?hl=en&user=8FjY99sAAAAJ&view_op=list_works&sortby=pubdate">Prof. Rajendra Acharya</a> on medical image analysis using artificial intelligence.</li>
@@ -66,7 +66,7 @@ I am a second-year graduate student pursuing a Master's in Computer Science at t
 <li><strong>January 2022:</strong> Started working as a data science intern at Epsilon India to generate personalized email subject lines.</li>
 <li><strong>December 2021:</strong> <a href="https://aclanthology.org/2021.icon-main.56/">Paper</a> on predicting video game development problems using word embeddings accepted in the <em>Proceedings of ICON 2021: 18th International Conference on Natural Language Processing</em>.</li>
 <li><strong>August 2020:</strong> Appointed as a teaching assistant for the course Elementary Real Analysis at BITS Pilani.</li>
-<li><strong>June 2020:</strong> Published my first paper on mathematically modeling the spread, peak, and reduction of COVID-19 in the journal <em>Infectious Disease Modelling</em> (Q1; IF: 3.0; Cite Score: 18.3).</li>
+<li><strong>June 2020:</strong> Published my first <a href="https://doi.org/10.1016/j.idm.2020.06.002">paper</a> on mathematically modeling the spread, peak, and reduction of COVID-19 in the journal <em>Infectious Disease Modelling</em> (Q1; IF: 3.0; Cite Score: 18.3).</li>
 <li><strong>May 2020:</strong> Started working as a summer research intern at Ecom Express, New Delhi, to study travel network optimization using Pyomo.</li>
 <li><strong>January 2020:</strong> Appointed as a teaching assistant for the course Probability and Statistics at BITS Pilani.</li>
 <li><strong>August 2018:</strong> Admitted to Birla Institute of Technology and Science, Pilani (BITS Pilani) for a dual major in Computer Science and Mathematics.</li>
