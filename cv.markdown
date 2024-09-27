@@ -36,7 +36,7 @@ title:  CV
 - Built Terraform scripts to monitor various database activities/thresholds on AWS such as database shutdown, CPU utilization, database storage limits, etc.
 
 ### Hidden and Face-like Object Detection - Computer Vision ([GitHub](https://github.com/06Anirudh24/UG-Thesis-on-Image-Classification))  
-**Undergraduate Thesis under [Prof. Subrata Chakraborty](https://www.une.edu.au/staff-profiles/science-and-technology/dr-subrata-chakraborty) at the University of New England**(August 2022 – December 2022 in Sydney, Australia)
+**Undergraduate Thesis under [Prof. Subrata Chakraborty](https://www.une.edu.au/staff-profiles/science-and-technology/dr-subrata-chakraborty) at the University of New England** (August 2022 – December 2022 in Sydney, Australia)
 - Developed CNN-based classifiers and detectors to differentiate faces from face-like objects and identify face-like objects hidden amidst background clutter with an accuracy of over 80% in different settings. [[Published]](https://www.researchgate.net/profile/Anirudh-A-2/publication/364196218_Hidden_and_Face-like_Object_Detection_using_Deep_Learning_Techniques_-An_Empirical_Study/links/64ad71278de7ed28ba913326/Hidden-and-Face-like-Object-Detection-using-Deep-Learning-Techniques-An-Empirical-Study.pdf)
 - Conducted psychological image, left-brain right-brain, and Rorschach inkblot tests on image classifiers to identify if they possess biases towards any particular class of objects and mimic human personality traits. [[Published]](https://aisel.aisnet.org/acis2022/11/)
 
