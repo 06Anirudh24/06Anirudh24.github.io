@@ -28,3 +28,8 @@ Looking ahead, I have a few goals that I'm really passionate about:
   <img src="docs/assets/Fig2.jpg" alt="Image 6" style="width: 30%; margin: 0 1%;">
   <img src="docs/assets/Fig4.JPG" alt="Image 7" style="width: 15%; margin: 0 1%;">
 </div>
+
+<video width="100%" autoplay loop muted controls>
+  <source src="docs/assets/vid.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
