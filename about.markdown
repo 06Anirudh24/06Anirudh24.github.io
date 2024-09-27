@@ -13,3 +13,18 @@ Looking ahead, I have a few goals that I'm really passionate about:
 2. **Animal and Marine Life Protection:** Having been involved with multiple NGOs in the past, I hope to establish my own organization dedicated to protecting animals and marine life.
 3. **Adopting Puppies and Scuba Diving:** On a lighter note, I dream of adopting as many puppies as possible and getting certified as a professional scuba diver!
 
+
+<!-- Line 1: 3 landscape images -->
+<div style="display: flex; justify-content: center; margin-bottom: 1%;">
+  <img src="docs/assets/Fig5.jpg" alt="Image 1" style="width: 30%; margin: 0 1%;">
+  <img src="docs/assets/Fig6.jpg" alt="Image 2" style="width: 30%; margin: 0 1%;">
+  <img src="docs/assets/Fig7.jpg" alt="Image 3" style="width: 30%; margin: 0 1%;">
+</div>
+
+<!-- Line 2: 4 images -->
+<div style="display: flex; justify-content: center;">
+  <img src="docs/assets/Fig3.jpg" alt="Image 4" style="width: 15%; margin: 0 1%;">
+  <img src="docs/assets/Fig1.jpg" alt="Image 5" style="width: 30%; margin: 0 1%;">
+  <img src="docs/assets/Fig2.jpg" alt="Image 6" style="width: 30%; margin: 0 1%;">
+  <img src="docs/assets/Fig4.jpg" alt="Image 7" style="width: 15%; margin: 0 1%;">
+</div>
