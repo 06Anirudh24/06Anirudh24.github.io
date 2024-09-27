@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<style>
+  footer {
+    display: none;
+  }
+</style>
+<html>
+<head>
+    <title>Projects</title>
+</head>
+<body>
+
 # Projects at UMass Amherst
 
 ## 2024
@@ -135,3 +147,7 @@
         <p>Developed a cross-platform mobile application using Flutter for efficient food delivery services. Achieved 5k+ downloads within the first month.</p>
     </div>
 </div>
+
+</body>
+</html>
+
