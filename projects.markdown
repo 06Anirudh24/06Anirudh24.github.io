@@ -69,8 +69,6 @@ models trained with the same resources: a standard RLHF baseline, a Starts-On-Po
 </div>
 <br>
 
-
-
 ---
 # Projects at the University of New England, Australia
 ---
@@ -112,6 +110,7 @@ integrating prediction and prevention strategies, harnessing multimodal data, an
 include diverse populations. Collaboration across disciplines and stakeholders is essential to ensure that AI-
 driven suicide prevention and prediction efforts are ethical, culturally sensitive, and person-centered. (<a href="https://doi.org/10.1016/j.inffus.2024.102673">Paper</a>) 
 </div>
+<br>
 
 #### Deep learning in radiology for lung cancer diagnostics: A systematic review of classification, segmentation, and predictive modeling techniques
 ![](docs/assets/LC.png)
@@ -150,6 +149,7 @@ identification of biomarkers and patient subgroups could improve FMS management.
 In this systematic review, we explore the role of artificial intelligence in understanding
 FMS pathophysiology, discuss the present limitations, and shed light on future
 research avenues, aiming to translate findings into improved clinical outcomes.
+<br>
 
 ---
 # Completed Research Projects (at BITS Pilani)
