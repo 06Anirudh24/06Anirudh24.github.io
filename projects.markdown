@@ -41,41 +41,29 @@ Description text.
 Description text.
 
 ---
-# Completed Research Projects (at BITS Pilani)
+# Projects at UMass Amherst
 ---
+#### CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints
+![](docs/assets/CS4.png)
+<div style="text-align: justify;">
+Evaluating the creativity of large language models (LLMs) in story writing is difficult because LLM-generated stories could seemingly look creative but be very similar to some existing stories in their huge and proprietary training corpus. To overcome this challenge, we introduce a novel benchmark dataset, \datasetnospace, with varying levels of prompt specificity. By increasing the number of requirements/constraints in the prompt, we can increase the prompt specificity and hinder LLMs from retelling high-quality narratives in their training data. Consequently, CS4 empowers us to indirectly measure the LLMs' creativity without human annotations. 
+Our experiments on LLaMA, Gemma, and Mistral not only highlight the creativity challenges LLMs face when dealing with highly specific prompts but also reveal that different LLMs perform very differently under different numbers of constraints and achieve different balances between the model's instruction-following ability and narrative coherence.
+Additionally, our experiments on OLMo suggest that while reinforcement learning with human feedback (RLHF) enhances LLMs' ability to output superior narratives under limited constraints, its effectiveness diminishes severely in the presence of more constraints. The results suggest that RLHF can help LLMs select better stories from their training data but has limited influence in boosting LLMs' ability to produce creative stories that are unseen in the training corpora. 
+</div>
+<br>
+#### Do Deep Learning Models Mimic Human Personality Traits? – An Empirical Study
+![](docs/assets/ACIS.png)
+<div style="text-align: justify;">
+Two key aspects of artificial intelligence are its ability to make decisions and attempt to mimic humans. Decision-making in humans is, however not straightforward and depends significantly on the person’s mental state, personal biases, and personality. In this study, we attempt to empirically understand if deep learning image classifiers also exhibit such inherent biases or if they act neutrally in any given situation. To this end, we perform three experiments – left-brain right-brain test, psychological images test, and Rorschach’s inkblot test on eight different stat-of-the-art deep learning classifiers. A detailed analysis of the SoftMax probability scores is done rather than an analysis on measures like accuracy and F1. The experimental results suggested that most models work similar to a left-brained person, do not always predict the same class when given images consisting of multiple object classes, and usually detect larger objects rather than smaller ones. We believe that understanding these inherent biases would help future researchers take necessary actions while building image classification models. (<a href="https://github.com/06Anirudh24/UG-Thesis-on-Image-Classification">GitHub</a>, <a href="https://aisel.aisnet.org/acis2022/11/">Paper</a>) 
+</div>
+<br>
 
-### 2024
 
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
-
-### 2023
-
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
 
 ---
 # Projects at the University of New England, Australia
 ---
-#### *Understanding non-verbal Vocalizations from Minimally-verbal Autistic Individuals: A Transfer Learning Approach*
+#### Understanding non-verbal Vocalizations from Minimally-verbal Autistic Individuals: A Transfer Learning Approach
 ![](docs/assets/Autism.png)
 <div style="text-align: justify;">
 Autism Spectrum Disorder (ASD) often includes challenges in verbal communication, particularly for minimally verbal (mv*) individuals. Mv* individuals with ASD often find it difficult to communicate with people since their vocalizations are highly personalized and often non-verbal, making it extremely difficult for people to understand their needs. Recent advances in machine learning and deep learning have made it possible for researchers to explore new avenues and provide personalized care for individuals with ASD. This research explores transfer learning and Mel spectrograms to classify non-verbal vocalizations from mv* ASD individuals, aiming to improve understanding and communication. We conduct three experiments to verify the robustness and generalizability of our approach in different setups. Using a dataset of 7077 vocalizations from eight mv* individuals collected from noisy, real-world settings, we convert the audio signals to Mel spectrograms and evaluate six transfer learning models and a custom convolutional neural network model. Our experiments demonstrated that DenseNet161, ResNet101, and VGG19, particularly when combined in an ensemble, effectively classify vocalizations into six categories: self-talk, frustration, delight, dysregulation, social, and request. Results suggest that this ensemble achieves state-of-the-art performance with an F1 score of 0.79, outperforming traditional machine learning methods and highlighting the potential of artificial intelligence in enhancing care for mv* ASD individuals. (<a href="https://github.com/06Anirudh24/Autism---Speech-Classification">GitHub</a>) 
@@ -150,4 +138,36 @@ identification of biomarkers and patient subgroups could improve FMS management.
 In this systematic review, we explore the role of artificial intelligence in understanding
 FMS pathophysiology, discuss the present limitations, and shed light on future
 research avenues, aiming to translate findings into improved clinical outcomes.
+
+---
+# Completed Research Projects (at BITS Pilani)
+---
+
+### 2024
+
+#### Project 1
+
+![Project 1 Image](path/to/image1.jpg)
+
+Description text.
+
+#### Project 2
+
+![Project 2 Image](path/to/image2.jpg)
+
+Description text.
+
+### 2023
+
+#### Project 1
+
+![Project 1 Image](path/to/image1.jpg)
+
+Description text.
+
+#### Project 2
+
+![Project 2 Image](path/to/image2.jpg)
+
+Description text.
 
