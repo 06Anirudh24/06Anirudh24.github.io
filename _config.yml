@@ -37,9 +37,9 @@ plugins:
 
 header_pages:
   - about.markdown
-  - blog.markdown
+  - projects.markdown
+  - publications.markdown 
   - cv.markdown
-  - publications.markdown # Add Publications page manually
 
   
 # Exclude from processing.
