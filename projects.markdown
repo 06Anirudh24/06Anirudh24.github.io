@@ -9,8 +9,8 @@ title:  Research
 </style>
 
 <div style="text-align: justify;">
-<b>Research Interests:</b> 
-  1. Natural Language Processing - factuality and hallucination of large language models (LLMs), personalization of LLMs, investigating the multilingual and multimodal capabilities of LLMs.
+<b>Research Interests:</b> <br>
+  1. Natural Language Processing - factuality and hallucination of large language models (LLMs), personalization of LLMs, investigating the multilingual and multimodal capabilities of LLMs. <br>
   2. Application of Natural Language Processing and Computer Vision in medicine (such as medical image analysis, autism detection, and psychological testing). 
 </div>
 <br>
