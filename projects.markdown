@@ -15,9 +15,9 @@ title:  Research
 </div>
 <br>
 
----
+***
 # Current Research
----
+***
 
 #### Impact of LLM Quantization on Text Quality
 <div style="text-align: justify;">
@@ -31,9 +31,9 @@ Creating a benchmark dataset for fine-tuning LLMs to generate personalized respo
 </div>
 <br>
 
----
+***
 # Projects at UMass Amherst
----
+***
 <br>
 
 #### CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints
@@ -62,9 +62,9 @@ models trained with the same resources: a standard RLHF baseline, a Starts-On-Po
 </div>
 <br>
 
----
+***
 # Projects at the University of New England, Australia
----
+***
 <br>
 
 #### Understanding non-verbal Vocalizations from Minimally-verbal Autistic Individuals: A Transfer Learning Approach
@@ -92,18 +92,18 @@ An essential aspect of artificial intelligence is how closely machines can mimic
 ![](docs/assets/Suicide.png)
 <div style="text-align: justify;">
 Suicide is a major global public health concern, and the application of artificial intelligence (AI) methods, such as natural language processing (NLP), machine learning (ML), and deep learning (DL), has shown promise in advancing suicide prediction and prevention efforts. Recent advancements in AI – particularly NLP and DL have opened up new avenues of research in suicide prediction and prevention. While several papers have reviewed specific detection techniques like NLP or DL, there has been no recent study that acts as a one-stop-shop, providing a comprehensive overview of all AI-based studies in this field. In this work, we conduct a systematic literature review to identify relevant studies published between 2019 and 2023, resulting in the inclusion of
-156 studies. We provide a comprehensive overview of the current state of research conducted on AI-driven
-suicide prevention and prediction, focusing on different data types and AI techniques employed. We discuss
-the benefits and challenges of these approaches and propose future research directions to improve the practical
-application of AI in suicide research. AI is highly capable of improving the accuracy and efficiency of risk
-assessment, enabling personalized interventions, and enhancing our understanding of risk and protective factors.
-Multidisciplinary approaches combining diverse data sources and AI methods can help identify individuals at risk
-by analyzing social media content, patient histories, and data from mobile devices, enabling timely intervention.
-However, challenges related to data privacy, algorithmic bias, model interpretability, and real-world implementation
-must be addressed to realize the full potential of these technologies. Future research should focus on
-integrating prediction and prevention strategies, harnessing multimodal data, and expanding the scope to
-include diverse populations. Collaboration across disciplines and stakeholders is essential to ensure that AI-
-driven suicide prevention and prediction efforts are ethical, culturally sensitive, and person-centered. (<a href="https://doi.org/10.1016/j.inffus.2024.102673">Paper</a>) 
+    156 studies. We provide a comprehensive overview of the current state of research conducted on AI-driven
+    suicide prevention and prediction, focusing on different data types and AI techniques employed. We discuss
+    the benefits and challenges of these approaches and propose future research directions to improve the practical
+    application of AI in suicide research. AI is highly capable of improving the accuracy and efficiency of risk
+    assessment, enabling personalized interventions, and enhancing our understanding of risk and protective factors.
+    Multidisciplinary approaches combining diverse data sources and AI methods can help identify individuals at risk
+    by analyzing social media content, patient histories, and data from mobile devices, enabling timely intervention.
+    However, challenges related to data privacy, algorithmic bias, model interpretability, and real-world implementation
+    must be addressed to realize the full potential of these technologies. Future research should focus on
+    integrating prediction and prevention strategies, harnessing multimodal data, and expanding the scope to
+    include diverse populations. Collaboration across disciplines and stakeholders is essential to ensure that AI-
+    driven suicide prevention and prediction efforts are ethical, culturally sensitive, and person-centered. (<a href="https://doi.org/10.1016/j.inffus.2024.102673">Paper</a>) 
 </div>
 <br>
 
@@ -111,18 +111,18 @@ driven suicide prevention and prediction efforts are ethical, culturally sensiti
 ![](docs/assets/LC.png)
 <div style="text-align: justify;">
 This study presents a comprehensive systematic review focusing on the applications of deep learning techniques
-in lung cancer radiomics. Through a rigorous screening process of 589 scientific publications following the
-Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected 153
-papers for an in-depth analysis. These papers were categorized based on imaging modality, deep learning model
-type, and practical applications in lung cancer, such as detection and survival prediction. We specifically
-emphasized deep learning models and examined their strengths and limitations for each application and imaging
-modality. Furthermore, we identified potential limitations within the field and proposed future research
-directions. This study serves as a pioneering resource, being the first comprehensive and systematic review of deep
-learning techniques, specifically in the context of lung cancer-related applications. Our primary objective was to
-provide a reference for future research, encouraging the advancement of deep learning techniques in the diagnosis
-and treatment of lung cancer. By suggesting the most effective deep learning tools for specific application
-areas, we offer a benchmark for future studies. In summary, this study consolidates and expands existing knowledge on deep learning and radiomics applications in lung cancer. It provides a foundation for further research and serves as a guide for developing and
-evaluating deep learning models in lung cancer-related applications. (<a href="https://doi.org/10.1016/j.eswa.2024.124665">Paper</a>) 
+    in lung cancer radiomics. Through a rigorous screening process of 589 scientific publications following the
+    Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, we selected 153
+    papers for an in-depth analysis. These papers were categorized based on imaging modality, deep learning model
+    type, and practical applications in lung cancer, such as detection and survival prediction. We specifically
+    emphasized deep learning models and examined their strengths and limitations for each application and imaging
+    modality. Furthermore, we identified potential limitations within the field and proposed future research
+    directions. This study serves as a pioneering resource, being the first comprehensive and systematic review of deep
+    learning techniques, specifically in the context of lung cancer-related applications. Our primary objective was to
+    provide a reference for future research, encouraging the advancement of deep learning techniques in the diagnosis
+    and treatment of lung cancer. By suggesting the most effective deep learning tools for specific application
+    areas, we offer a benchmark for future studies. In summary, this study consolidates and expands existing knowledge on deep learning and radiomics applications in lung cancer. It provides a foundation for further research and serves as a guide for developing and
+    evaluating deep learning models in lung cancer-related applications. (<a href="https://doi.org/10.1016/j.eswa.2024.124665">Paper</a>) 
 </div>
 <br>
 
@@ -130,27 +130,27 @@ evaluating deep learning models in lung cancer-related applications. (<a href="h
 ![](docs/assets/FMS.png)
 <div style="text-align: justify;">
 Fibromyalgia syndrome (FMS) is a long-lasting medical condition that poses significant
-challenges for diagnosis and management because of its complex and poorly
-understood nature. It affects millions of people around the globe, predominantly
-women, causing widespread pain, fatigue, cognitive impairments, and mood
-disturbances. The lack of objective measures to address FMS complicates its
-assessment, often leading to delayed or misdiagnosed cases. By hindering daily
-activities and productivity, FMS negatively impacts the quality of the patient’s life.
-Innovative approaches that use medical data, such as biosignals and bioimaging,
-combined with machine learning techniques, hold the promise of deepening our
-knowledge of FMS, which might in turn lead to systems that offer efficient, precise,
-and personalized physician support. Furthermore, artificial intelligence-driven
-identification of biomarkers and patient subgroups could improve FMS management.
-In this systematic review, we explore the role of artificial intelligence in understanding
-FMS pathophysiology, discuss the present limitations, and shed light on future
-research avenues, aiming to translate findings into improved clinical outcomes.
-<br> 
-
-  
-
----
+    challenges for diagnosis and management because of its complex and poorly
+    understood nature. It affects millions of people around the globe, predominantly
+    women, causing widespread pain, fatigue, cognitive impairments, and mood
+    disturbances. The lack of objective measures to address FMS complicates its
+    assessment, often leading to delayed or misdiagnosed cases. By hindering daily
+    activities and productivity, FMS negatively impacts the quality of the patient’s life.
+    Innovative approaches that use medical data, such as biosignals and bioimaging,
+    combined with machine learning techniques, hold the promise of deepening our
+    knowledge of FMS, which might in turn lead to systems that offer efficient, precise,
+    and personalized physician support. Furthermore, artificial intelligence-driven
+    identification of biomarkers and patient subgroups could improve FMS management.
+    In this systematic review, we explore the role of artificial intelligence in understanding
+    FMS pathophysiology, discuss the present limitations, and shed light on future
+    research avenues, aiming to translate findings into improved clinical outcomes.
+    <br> 
+    
+      
+    
+***
 # Research Projects at BITS Pilani, India
----
+***
 
 #### Subject Line Generation using Artificial Intelligence and NLP
 <div style="text-align: justify;">
@@ -175,7 +175,7 @@ In this project, we built an ensemble learning classifier integrating features f
 #### Emotionally Aware Conversational Agent for Mental Health 
 <div style="text-align: justify;">
 In this work, we built a multi-faceted emotionally aware chatbot combining rule-based, retrieval-based, and generative methodologies. We trained LSTMs and GRUs for the retrieval-based module and built a seq2seq encoder-decoder-based text generator for the
-generative module. (<a href="https://github.com/06Anirudh24/Emotionally-Aware-CA">GitHub</a>) 
+    generative module. (<a href="https://github.com/06Anirudh24/Emotionally-Aware-CA">GitHub</a>) 
 </div>
 <br>
 
@@ -183,4 +183,3 @@ generative module. (<a href="https://github.com/06Anirudh24/Emotionally-Aware-CA
 <div style="text-align: justify;">
 Mathematical predictions in combating epidemics are yet to reach their perfection. The rapid spread, the ways, and the procedures involved in the containment of a pandemic demand the earliest understanding in finding solutions in line with the habitual, physiological, biological, and environmental aspects of life with better computerized mathematical modeling and predictions. Epidemiology models are key tools in public health management programs despite having a high level of uncertainty in each one of these models. This paper describes the outcome and the challenges of SIR, SEIR, SEIRU, SIRD, SLIAR, ARIMA, SIDARTHE, etc models used in prediction of the spread, peak, and reduction of Covid-19 cases. (<a href="https://doi.org/10.1016/j.idm.2020.06.002">Paper</a>) 
 <br>
-
