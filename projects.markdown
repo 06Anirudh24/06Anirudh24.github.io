@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Project
+title:  Projects
 ---
 <style>
   footer {
@@ -8,9 +8,8 @@ title:  Project
   }
 </style>
 
-
+---
 # Projects at UMass Amherst
-
 ---
 
 ### 2024
@@ -42,10 +41,25 @@ Description text.
 Description text.
 
 ---
+# Projects at the University of New England, Australia
+---
+### 2023
 
-# Projects at BITS Pilani, India
+#### Project 1
 
-## Data Science Projects
+![Project 1 Image](path/to/image1.jpg)
+
+Description text.
+
+#### Project 2
+
+![Project 2 Image](path/to/image2.jpg)
+
+Description text.
+
+---
+# Data Science Projects at BITS Pilani, India
+---
 
 ### 2024
 
@@ -75,7 +89,9 @@ Description text.
 
 Description text.
 
-## Software Development Projects
+---
+# Miscellaneous Software Development Projects at BITS Pilani
+---
 
 ### 2024
 
