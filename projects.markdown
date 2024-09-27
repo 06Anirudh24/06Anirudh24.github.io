@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<style>
-  footer {
-    display: none;
-  }
-</style>
 <html>
 <head>
     <title>Projects</title>
@@ -150,4 +145,3 @@
 
 </body>
 </html>
-
