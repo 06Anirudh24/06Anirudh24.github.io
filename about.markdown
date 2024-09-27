@@ -16,8 +16,9 @@ Looking ahead, I have a few goals that I'm really passionate about:
 
 ![Alt Text](docs/assets/Grid.JPG)
 
-
-<video width="100%" autoplay loop muted controls>
-  <source src="docs/assets/vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="text-align: center; margin-top: 20px;">
+  <video width="640" height="360" controls>
+    <source src="docs/assets/vid.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
