@@ -11,38 +11,25 @@ title:  Research
 ---
 # Current Research
 ---
+<br>
 
-### 2024
+#### CS4: Impact of LLM Quantization on Text Quality
+<div style="text-align: justify;">
+Conducting experiments to study the impact of quantization and speculative decoding on the quality of LLM-generated text, particularly factuality and hallucination. (Supervisor: <a href="https://people.cs.umass.edu/~miyyer/">Prof. Mohit Iyyer</a>) 
+</div>
+<br>
 
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
-
-### 2023
-
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
+#### Cross-domain Personalization for LLMs
+<div style="text-align: justify;">
+Creating a benchmark dataset for fine-tuning LLMs to generate personalized responses based on data from multiple sources such as Google Scholar, LinkedIn, Twitter, and home pages.(Supervisor: <a href="https://www.cics.umass.edu/about/directory/hamed-zamani">Prof. Hamed Zamani</a>) 
+</div>
+<br>
 
 ---
 # Projects at UMass Amherst
 ---
+<br>
+
 #### CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints
 ![](docs/assets/CS4.png)
 <div style="text-align: justify;">
@@ -154,6 +141,7 @@ research avenues, aiming to translate findings into improved clinical outcomes.
 ---
 # Completed Research Projects (at BITS Pilani)
 ---
+<br>
 
 ### 2024
 
