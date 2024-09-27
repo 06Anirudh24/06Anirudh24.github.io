@@ -9,7 +9,39 @@ title:  Research
 </style>
 
 ---
-# Projects at UMass Amherst
+# Current Research
+---
+
+### 2024
+
+#### Project 1
+
+![Project 1 Image](path/to/image1.jpg)
+
+Description text.
+
+#### Project 2
+
+![Project 2 Image](path/to/image2.jpg)
+
+Description text.
+
+### 2023
+
+#### Project 1
+
+![Project 1 Image](path/to/image1.jpg)
+
+Description text.
+
+#### Project 2
+
+![Project 2 Image](path/to/image2.jpg)
+
+Description text.
+
+---
+# Completed Research Projects (at BITS Pilani)
 ---
 
 ### 2024
@@ -119,66 +151,3 @@ In this systematic review, we explore the role of artificial intelligence in und
 FMS pathophysiology, discuss the present limitations, and shed light on future
 research avenues, aiming to translate findings into improved clinical outcomes.
 
----
-# Data Science Projects at BITS Pilani
----
-
-### 2024
-
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
-
-### 2023
-
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
-
----
-# Miscellaneous Software Development Projects at BITS Pilani
----
-
-### 2024
-
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
-
-### 2023
-
-#### Project 1
-
-![Project 1 Image](path/to/image1.jpg)
-
-Description text.
-
-#### Project 2
-
-![Project 2 Image](path/to/image2.jpg)
-
-Description text.
