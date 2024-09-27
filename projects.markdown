@@ -107,4 +107,43 @@ This study presents a comprehensive systematic review focusing on the applicatio
 ![](docs/assets/FMS.png)
 
 <div style="text-align: justify;">
-Fibromyalgia syndrome (FMS) is a long-lasting medical condition that poses significant challenges for diagnosis and management because of its complex and poorly understood nature. It affects millions of people around the globe, predominantly women, causing widespread pain, fatigue, cognitive impairments, and mood disturbances. The lack of objective measures to address FMS complicates its assessment, often leading to delayed or misdiagnosed cases. By hindering daily activities and productivity, FMS negatively impacts the quality of the patient’s life. Innovative approaches that use medical data, such as biosignals
+Fibromyalgia syndrome (FMS) is a long-lasting medical condition that poses significant challenges for diagnosis and management because of its complex and poorly understood nature. It affects millions of people around the globe, predominantly women, causing widespread pain, fatigue, cognitive impairments, and mood disturbances. The lack of objective measures to address FMS complicates its assessment, often leading to delayed or misdiagnosed cases. By hindering daily activities and productivity, FMS negatively impacts the quality of the patient’s life. Innovative approaches that use medical data, such as biosignals and bioimaging, combined with machine learning techniques, hold the promise of deepening our knowledge of FMS, which might in turn lead to systems that offer efficient, precise, and personalized physician support. Furthermore, artificial intelligence-driven identification of biomarkers and patient subgroups could improve FMS management. In this systematic review, we explore the role of artificial intelligence in understanding FMS pathophysiology, discuss the present limitations, and shed light on future research avenues, aiming to translate findings into improved clinical outcomes.
+</div>
+
+***
+
+# Research Projects at BITS Pilani, India
+
+***
+
+#### Subject Line Generation using Artificial Intelligence and NLP
+
+<div style="text-align: justify;">
+In this work, we built a transformer model to generate diverse email subject lines given a theme or starting word(s) as the input. For each input, we generated 10 semantically similar subject lines by considering it an English-English neural machine translation task. Finally, we built an LSTM model to predict open rates of emails that use the generated subject lines with a 91% accuracy. (<a href="https://github.com/06Anirudh24/Subject-Line-Generation">GitHub</a>)
+</div>
+
+#### Prediction of Video Game Development Problems using Word Embeddings
+
+![](docs/assets/VideoGame.png)
+
+<div style="text-align: justify;">
+The interactive entertainment industry is being actively involved with the development, marketing, and sale of video games in the past decade. The increasing interest in video games has led to an increase in video game development techniques and methods. It has emerged as an immensely large sector, and now it has grown to be larger than the movie and music industries combined. The postmortem of a game outlines and analyzes the game’s history, team goals, what went right, and what went wrong with the game. Despite its significance, there is little understanding related to the challenges encountered by the programmers. Postmortems are not properly maintained and are informally written, leading to a lack of trustworthiness. In this study, we perform a systematic analysis of different problems faced in video game development. The need for automation and ML techniques arises because it could help game developers easily identify the exact problem from the description, and hence be able to easily find a solution. This work could also help developers in identifying frequent mistakes that could be avoided and will provide researchers a beginning point to further consider game development in the context of software engineering. (<a href="https://github.com/06Anirudh24/Prediction-of-Game-Development-Problems">GitHub</a>, <a href="https://aclanthology.org/2021.icon-main.56/">Paper 1</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3578527.3578543">Paper 2</a>)
+</div>
+
+#### Adaptive Learning - Classification of Math Word Problems based on Difficulty Level
+
+<div style="text-align: justify;">
+In this project, we built an ensemble learning classifier integrating features from word embeddings, parts of speech tags, and readability scores to predict the difficulty level of a given math word problem, achieving an AUC score of 0.92. (<a href="https://github.com/06Anirudh24/Adaptive-Learning---Predicition-of-MWP-Difficulty-Level">GitHub</a>)
+</div>
+
+#### Emotionally Aware Conversational Agent for Mental Health
+
+<div style="text-align: justify;">
+In this work, we built a multi-faceted emotionally aware chatbot combining rule-based, retrieval-based, and generative methodologies. We trained LSTMs and GRUs for the retrieval-based module and built a seq2seq encoder-decoder-based text generator for the generative module. (<a href="https://github.com/06Anirudh24/Emotionally-Aware-CA">GitHub</a>)
+</div>
+
+#### Mathematical Modelling of COVID-19
+
+<div style="text-align: justify;">
+Mathematical predictions in combating epidemics are yet to reach their perfection. The rapid spread, the ways, and the procedures involved in the containment of a pandemic demand the earliest understanding in finding solutions in line with the habitual, physiological, biological, and environmental aspects of life with better computerized mathematical modeling and predictions. Epidemiology models are key tools in public health management programs despite having a high level of uncertainty in each one of these models. This paper describes the outcome and the challenges of SIR, SEIR, SEIRU, SIRD, SLIAR, ARIMA, SIDARTHE, etc., models used in prediction of the spread, peak, and reduction of COVID-19 cases. (<a href="https://doi.org/10.1016/j.idm.2020.06.002">Paper</a>)
+</div>
