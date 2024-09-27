@@ -16,9 +16,9 @@ Looking ahead, I have a few goals that I'm really passionate about:
 
 <!-- Line 1: 3 landscape images -->
 <div style="display: flex; justify-content: center; margin-bottom: 1%;">
-  <img src="docs/assets/Fig5.jpg" alt="Image 1" style="width: 30%; margin: 0 1%;">
-  <img src="docs/assets/Fig6.jpg" alt="Image 2" style="width: 30%; margin: 0 1%;">
-  <img src="docs/assets/Fig7.jpg" alt="Image 3" style="width: 30%; margin: 0 1%;">
+  <img src="docs/assets/Fig5.HEIC" alt="Image 1" style="width: 30%; margin: 0 1%;">
+  <img src="docs/assets/Fig6.HEIC" alt="Image 2" style="width: 30%; margin: 0 1%;">
+  <img src="docs/assets/Fig7.HEIC" alt="Image 3" style="width: 30%; margin: 0 1%;">
 </div>
 
 <!-- Line 2: 4 images -->
@@ -26,5 +26,5 @@ Looking ahead, I have a few goals that I'm really passionate about:
   <img src="docs/assets/Fig3.jpg" alt="Image 4" style="width: 15%; margin: 0 1%;">
   <img src="docs/assets/Fig1.jpg" alt="Image 5" style="width: 30%; margin: 0 1%;">
   <img src="docs/assets/Fig2.jpg" alt="Image 6" style="width: 30%; margin: 0 1%;">
-  <img src="docs/assets/Fig4.jpg" alt="Image 7" style="width: 15%; margin: 0 1%;">
+  <img src="docs/assets/Fig4.JPG" alt="Image 7" style="width: 15%; margin: 0 1%;">
 </div>
