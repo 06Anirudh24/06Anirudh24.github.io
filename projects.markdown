@@ -150,7 +150,6 @@ research avenues, aiming to translate findings into improved clinical outcomes.
 <br>
 
 #### Subject Line Generation using Artificial Intelligence and NLP
-![](docs/assets/LC.png)
 <div style="text-align: justify;">
 In this work, we built a transformer model to generate diverse E-Mail subject lines given a theme or starting word(s) as the input. For each input, we generated 10 semantically similar subject lines by considering it an English-English neural machine translation task. Finally, we built an LSTM model to predict open rates of emails that use the generated subject lines with a 91% accuracy.
 (<a href="https://github.com/06Anirudh24/Subject-Line-Generation">GitHub</a>) 
@@ -171,7 +170,6 @@ In this project, we built an ensemble learning classifier integrating features f
 <br>
 
 #### Emotionally Aware Conversational Agent for Mental Health 
-![](docs/assets/LC.png)
 <div style="text-align: justify;">
 In this work, we built a multi-faceted emotionally aware chatbot combining rule-based, retrieval-based, and generative methodologies. We trained LSTMs and GRUs for the retrieval-based module and built a seq2seq encoder-decoder-based text generator for the
 generative module. (<a href="https://github.com/06Anirudh24/Emotionally-Aware-CA">GitHub</a>) 
@@ -179,7 +177,6 @@ generative module. (<a href="https://github.com/06Anirudh24/Emotionally-Aware-CA
 <br>
 
 #### Mathematical Modelling of COVID-19
-![](docs/assets/FMS.png)
 <div style="text-align: justify;">
 Mathematical predictions in combating epidemics are yet to reach their perfection. The rapid spread, the ways, and the procedures involved in the containment of a pandemic demand the earliest understanding in finding solutions in line with the habitual, physiological, biological, and environmental aspects of life with better computerized mathematical modeling and predictions. Epidemiology models are key tools in public health management programs despite having a high level of uncertainty in each one of these models. This paper describes the outcome and the challenges of SIR, SEIR, SEIRU, SIRD, SLIAR, ARIMA, SIDARTHE, etc models used in prediction of the spread, peak, and reduction of Covid-19 cases. (<a href="https://doi.org/10.1016/j.idm.2020.06.002">Paper</a>) 
 <br>
