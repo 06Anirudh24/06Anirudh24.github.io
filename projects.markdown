@@ -8,16 +8,14 @@ title:  Research
   }
 </style>
 
----
-# Current Research
----
 <div style="text-align: justify;">
 <b>Research Interests:</b> Natural Language Processing - factuality and hallucination of large language models (LLMs), personalization of LLMs, investigating the multilingual and multimodal capabilities of LLMs, and the applications of Natural Language Processing and Computer Vision in medicine (such as medical image analysis, autism detection, and psychological testing). 
 </div>
 <br>
 
-
-
+---
+# Current Research
+---
 
 #### CS4: Impact of LLM Quantization on Text Quality
 <div style="text-align: justify;">
@@ -147,7 +145,7 @@ research avenues, aiming to translate findings into improved clinical outcomes.
 ---
 # Completed Research Projects (at BITS Pilani)
 ---
-<br>
+
 
 ### 2024
 
