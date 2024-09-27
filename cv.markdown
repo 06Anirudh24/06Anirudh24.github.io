@@ -2,7 +2,11 @@
 layout: page
 title:  CV
 ---
-
+<style>
+  footer {
+    display: none;
+  }
+</style>
 ## **EDUCATION**
 
 ### University of Massachusetts Amherst  
