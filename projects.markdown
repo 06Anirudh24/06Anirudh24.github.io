@@ -19,7 +19,7 @@ title:  Research
 # Current Research
 ---
 
-#### CS4: Impact of LLM Quantization on Text Quality
+#### Impact of LLM Quantization on Text Quality
 <div style="text-align: justify;">
 Conducting experiments to study the impact of quantization and speculative decoding on the quality of LLM-generated text, particularly factuality and hallucination. (Supervisor: <a href="https://people.cs.umass.edu/~miyyer/">Prof. Mohit Iyyer</a>) 
 </div>
@@ -149,7 +149,7 @@ research avenues, aiming to translate findings into improved clinical outcomes.
 ---
 # Research Projects at BITS Pilani, India
 ---
-<br>
+
 
 #### Subject Line Generation using Artificial Intelligence and NLP
 <div style="text-align: justify;">
