@@ -51,10 +51,21 @@ Our experiments on LLaMA, Gemma, and Mistral not only highlight the creativity c
 Additionally, our experiments on OLMo suggest that while reinforcement learning with human feedback (RLHF) enhances LLMs' ability to output superior narratives under limited constraints, its effectiveness diminishes severely in the presence of more constraints. The results suggest that RLHF can help LLMs select better stories from their training data but has limited influence in boosting LLMs' ability to produce creative stories that are unseen in the training corpora. 
 </div>
 <br>
-#### Do Deep Learning Models Mimic Human Personality Traits? – An Empirical Study
-![](docs/assets/ACIS.png)
-<div style="text-align: justify;">
-Two key aspects of artificial intelligence are its ability to make decisions and attempt to mimic humans. Decision-making in humans is, however not straightforward and depends significantly on the person’s mental state, personal biases, and personality. In this study, we attempt to empirically understand if deep learning image classifiers also exhibit such inherent biases or if they act neutrally in any given situation. To this end, we perform three experiments – left-brain right-brain test, psychological images test, and Rorschach’s inkblot test on eight different stat-of-the-art deep learning classifiers. A detailed analysis of the SoftMax probability scores is done rather than an analysis on measures like accuracy and F1. The experimental results suggested that most models work similar to a left-brained person, do not always predict the same class when given images consisting of multiple object classes, and usually detect larger objects rather than smaller ones. We believe that understanding these inherent biases would help future researchers take necessary actions while building image classification models. (<a href="https://github.com/06Anirudh24/UG-Thesis-on-Image-Classification">GitHub</a>, <a href="https://aisel.aisnet.org/acis2022/11/">Paper</a>) 
+
+#### Fine-Tuning Intelligence: Exploring Dynamic Prompts in RLHF for Improved Alignment
+The alignment problem, ensuring AI systems adhere to human values, remains a significant challenge despite the collection of increasingly high-quality and expensive datasets. Reinforcement Learning from Human Feedback (RLHF)
+offers a promising solution, leveraging human
+judgment during training. However, standard
+RLHF often relies on static prompts, potentially
+wasting resources and neglecting areas needing improvement. This work proposes a novel
+approach for efficient and effective RLHF finetuning of large language models (LLMs). We
+introduce a dynamic prompt generation system
+that adapts based on the model’s intermediate
+performance. This allows the model to focus
+on areas requiring the most human guidance,
+leading to faster and more targeted alignment.
+We evaluate our method by comparing three
+models trained with the same resources: a standard RLHF baseline, a Starts-On-Policy (SOP) model with static prompts based on initial performance, and our Always-On-Policy (AOP) model with dynamically generated prompts. Results demonstrate that AOP significantly outperforms all other models showcasing the effectiveness of our approach.
 </div>
 <br>
 
@@ -69,6 +80,7 @@ Two key aspects of artificial intelligence are its ability to make decisions and
 Autism Spectrum Disorder (ASD) often includes challenges in verbal communication, particularly for minimally verbal (mv*) individuals. Mv* individuals with ASD often find it difficult to communicate with people since their vocalizations are highly personalized and often non-verbal, making it extremely difficult for people to understand their needs. Recent advances in machine learning and deep learning have made it possible for researchers to explore new avenues and provide personalized care for individuals with ASD. This research explores transfer learning and Mel spectrograms to classify non-verbal vocalizations from mv* ASD individuals, aiming to improve understanding and communication. We conduct three experiments to verify the robustness and generalizability of our approach in different setups. Using a dataset of 7077 vocalizations from eight mv* individuals collected from noisy, real-world settings, we convert the audio signals to Mel spectrograms and evaluate six transfer learning models and a custom convolutional neural network model. Our experiments demonstrated that DenseNet161, ResNet101, and VGG19, particularly when combined in an ensemble, effectively classify vocalizations into six categories: self-talk, frustration, delight, dysregulation, social, and request. Results suggest that this ensemble achieves state-of-the-art performance with an F1 score of 0.79, outperforming traditional machine learning methods and highlighting the potential of artificial intelligence in enhancing care for mv* ASD individuals. (<a href="https://github.com/06Anirudh24/Autism---Speech-Classification">GitHub</a>) 
 </div>
 <br>
+
 #### Do Deep Learning Models Mimic Human Personality Traits? – An Empirical Study
 ![](docs/assets/ACIS.png)
 <div style="text-align: justify;">
