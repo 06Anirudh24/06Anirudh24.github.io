@@ -144,12 +144,11 @@ identification of biomarkers and patient subgroups could improve FMS management.
 In this systematic review, we explore the role of artificial intelligence in understanding
 FMS pathophysiology, discuss the present limitations, and shed light on future
 research avenues, aiming to translate findings into improved clinical outcomes.
-<br>
+
 
 ---
 # Research Projects at BITS Pilani, India
 ---
-
 
 #### Subject Line Generation using Artificial Intelligence and NLP
 <div style="text-align: justify;">
