@@ -75,27 +75,27 @@ Description text.
 ---
 # Projects at the University of New England, Australia
 ---
-## Understanding non-verbal Vocalizations from Minimally-verbal Autistic Individuals: A Transfer Learning Approach
+#### *Understanding non-verbal Vocalizations from Minimally-verbal Autistic Individuals: A Transfer Learning Approach*
 ![](docs/assets/Autism.png)
 <div style="text-align: justify;">
 Autism Spectrum Disorder (ASD) often includes challenges in verbal communication, particularly for minimally verbal (mv*) individuals. Mv* individuals with ASD often find it difficult to communicate with people since their vocalizations are highly personalized and often non-verbal, making it extremely difficult for people to understand their needs. Recent advances in machine learning and deep learning have made it possible for researchers to explore new avenues and provide personalized care for individuals with ASD. This research explores transfer learning and Mel spectrograms to classify non-verbal vocalizations from mv* ASD individuals, aiming to improve understanding and communication. We conduct three experiments to verify the robustness and generalizability of our approach in different setups. Using a dataset of 7077 vocalizations from eight mv* individuals collected from noisy, real-world settings, we convert the audio signals to Mel spectrograms and evaluate six transfer learning models and a custom convolutional neural network model. Our experiments demonstrated that DenseNet161, ResNet101, and VGG19, particularly when combined in an ensemble, effectively classify vocalizations into six categories: self-talk, frustration, delight, dysregulation, social, and request. Results suggest that this ensemble achieves state-of-the-art performance with an F1 score of 0.79, outperforming traditional machine learning methods and highlighting the potential of artificial intelligence in enhancing care for mv* ASD individuals. (<a href="https://github.com/06Anirudh24/Autism---Speech-Classification">GitHub</a>) 
 </div>
 <br>
-## Do Deep Learning Models Mimic Human Personality Traits? – An Empirical Study
+#### Do Deep Learning Models Mimic Human Personality Traits? – An Empirical Study
 ![](docs/assets/ACIS.png)
 <div style="text-align: justify;">
 Two key aspects of artificial intelligence are its ability to make decisions and attempt to mimic humans. Decision-making in humans is, however not straightforward and depends significantly on the person’s mental state, personal biases, and personality. In this study, we attempt to empirically understand if deep learning image classifiers also exhibit such inherent biases or if they act neutrally in any given situation. To this end, we perform three experiments – left-brain right-brain test, psychological images test, and Rorschach’s inkblot test on eight different stat-of-the-art deep learning classifiers. A detailed analysis of the SoftMax probability scores is done rather than an analysis on measures like accuracy and F1. The experimental results suggested that most models work similar to a left-brained person, do not always predict the same class when given images consisting of multiple object classes, and usually detect larger objects rather than smaller ones. We believe that understanding these inherent biases would help future researchers take necessary actions while building image classification models. (<a href="https://github.com/06Anirudh24/UG-Thesis-on-Image-Classification">GitHub</a>, <a href="https://aisel.aisnet.org/acis2022/11/">Paper</a>) 
 </div>
 <br>
 
-## Hidden and Face-like Object Detection Using Deep Learning Techniques – An Empirical Study
+#### Hidden and Face-like Object Detection Using Deep Learning Techniques – An Empirical Study
 ![](docs/assets/DICTA.png)
 <div style="text-align: justify;">
 An essential aspect of artificial intelligence is how closely machines can mimic humans. One of the motivations for developing intelligent systems is human vision. While trying to recognise a class of images, it is as vital to distinguish the class of images from similar-looking objects and identify them in hidden places as it is to create bounding boxes and learn to localize the position of the object. Traditionally, deep learning models have performed exceptionally well in image classification and object detection tasks. In this work, we perform four experiments to train machines to distinguish between real faces and face-like objects and to recognise them. Nine state-of-the-art deep learning-based classifiers have been chosen to perform a comparative study on the designed experiments. Using these experiments, we establish that training models on real faces does not prepare them to identify face-like objects, and at the same time, training on face-like objects enables the models to detect face-like images even while hidden amongst other images. Despite work being done in the fields of camouflage detection and optical illusion detection, to the best of our knowledge, no work has been done in training and testing machines to distinguish between face and face-like objects with deep learning methods. This work could help researchers make better camouflage detection systems, perform context sensitive studies, understand the biases that various models possess towards certain classes of images, and have applications in real life such as military and self-driving cars. (<a href="https://github.com/06Anirudh24/UG-Thesis-on-Image-Classification">GitHub</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10034632">Paper</a>)
 </div>
 <br>
 
-## Artificial intelligence-based suicide prevention and prediction: A systematic review (2019–2023)
+#### Artificial intelligence-based suicide prevention and prediction: A systematic review (2019–2023)
 ![](docs/assets/Suicide.png)
 <div style="text-align: justify;">
 Suicide is a major global public health concern, and the application of artificial intelligence (AI) methods, such as natural language processing (NLP), machine learning (ML), and deep learning (DL), has shown promise in advancing suicide prediction and prevention efforts. Recent advancements in AI – particularly NLP and DL have opened up new avenues of research in suicide prediction and prevention. While several papers have reviewed specific detection techniques like NLP or DL, there has been no recent study that acts as a one-stop-shop, providing a comprehensive overview of all AI-based studies in this field. In this work, we conduct a systematic literature review to identify relevant studies published between 2019 and 2023, resulting in the inclusion of
@@ -113,7 +113,7 @@ include diverse populations. Collaboration across disciplines and stakeholders i
 driven suicide prevention and prediction efforts are ethical, culturally sensitive, and person-centered. (<a href="https://doi.org/10.1016/j.inffus.2024.102673">Paper</a>) 
 </div>
 
-## Deep learning in radiology for lung cancer diagnostics: A systematic review of classification, segmentation, and predictive modeling techniques
+#### Deep learning in radiology for lung cancer diagnostics: A systematic review of classification, segmentation, and predictive modeling techniques
 ![](docs/assets/LC.png)
 <div style="text-align: justify;">
 This study presents a comprehensive systematic review focusing on the applications of deep learning techniques
@@ -132,7 +132,7 @@ evaluating deep learning models in lung cancer-related applications. (<a href="h
 </div>
 <br>
 
-## Artificial intelligence techniques for fibromyalgia: A systematic review of data-driven approaches and clinical implications (2013-2023)
+#### Artificial intelligence techniques for fibromyalgia: A systematic review of data-driven approaches and clinical implications (2013-2023)
 ![](docs/assets/FMS.png)
 <div style="text-align: justify;">
 Fibromyalgia syndrome (FMS) is a long-lasting medical condition that poses significant
