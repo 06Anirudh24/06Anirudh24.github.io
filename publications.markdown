@@ -16,8 +16,7 @@ My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuse
 
 - **Artificial Intelligence-based Suicide Prevention and Prediction: A Systematic Review (2019-2023)**
   <br>**Authors**: <u>Anirudh Atmakuru</u>, Alen Shahini, Subrata Chakraborty, Silvia Seoni, Massimo Salvi, Abdul Hafeez-Baig, Sadaf Rashid, Ru San Tan, Prabal Datta Barua, Filippo Molinari, U Rajendra Acharya  
-  <br>Information Fusion, 102673
-  <a href="https://doi.org/10.1016/j.inffus.2024.102673" target="_blank">[Link to Paper]</a>
+  Information Fusion, 102673 <a href="https://doi.org/10.1016/j.inffus.2024.102673" target="_blank">[Link to Paper]</a>
 
 - **Deep learning in radiology for lung cancer diagnostics: A systematic review of classification, segmentation, and predictive modeling techniques**
   <br>**Authors**: <u>Anirudh Atmakuru</u>, Subrata Chakraborty, Oliver Faust, Massimo Salvi, Prabal Datta Barua, Filippo Molinari, UR Acharya, Nusrat Homaira 
@@ -43,7 +42,7 @@ My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuse
   <a href="https://ieeexplore.ieee.org/abstract/document/10034632" target="_blank">[Link to Paper]</a>
 
 - **Do Deep Learning Models Mimic Human Personality Traits?–An Empirical Study**
-  **Authors**: <u>Anirudh Atmakuru</u>, Subrata Chakraborty
+  <br>**Authors**: <u>Anirudh Atmakuru</u>, Subrata Chakraborty
   <br>ACIS 2022 Proceedings
   <a href="https://aisel.aisnet.org/acis2022/11/" target="_blank">[Link to Paper]</a>
 
