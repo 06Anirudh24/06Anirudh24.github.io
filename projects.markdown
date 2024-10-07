@@ -50,7 +50,7 @@ Evaluating the creativity of large language models (LLMs) in story writing is di
 
 Our experiments on LLaMA, Gemma, and Mistral not only highlight the creativity challenges LLMs face when dealing with highly specific prompts but also reveal that different LLMs perform very differently under different numbers of constraints and achieve different balances between the model's instruction-following ability and narrative coherence.
 
-Additionally, our experiments on OLMo suggest that while reinforcement learning with human feedback (RLHF) enhances LLMs' ability to output superior narratives under limited constraints, its effectiveness diminishes severely in the presence of more constraints. The results suggest that RLHF can help LLMs select better stories from their training data but has limited influence in boosting LLMs' ability to produce creative stories that are unseen in the training corpora.
+Additionally, our experiments on OLMo suggest that while reinforcement learning with human feedback (RLHF) enhances LLMs' ability to output superior narratives under limited constraints, its effectiveness diminishes severely in the presence of more constraints. The results suggest that RLHF can help LLMs select better stories from their training data but has limited influence in boosting LLMs' ability to produce creative stories that are unseen in the training corpora. (<a href="https://github.com/06Anirudh24/CS4_Benchmark">GitHub</a>)
 </div>
 <br>
 
