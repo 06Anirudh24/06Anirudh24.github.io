@@ -11,7 +11,7 @@ My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuse
 
 - **CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints**
   <br>**Authors**: <u>Anirudh Atmakuru</u>, Jatin Nainani, Rohith Siddhartha Reddy Bheemreddy, Anirudh Lakkaraju, Zonghai Yao, Hamed Zamani, Haw-Shiuan Chang 
-  <br>6th Workshop on Narrative Understanding (WNU), 2024 at Empirical Methods in Natural Language Processing (EMNLP)  
+  <br>6th Workshop on Narrative Understanding (WNU), 2024 at Empirical Methods in Natural Language Processing (EMNLP) <a href="https://arxiv.org/pdf/2410.04197" target="_blank">[Link to Paper]</a>  
 
 
 - **Artificial Intelligence-based Suicide Prevention and Prediction: A Systematic Review (2019-2023)**
