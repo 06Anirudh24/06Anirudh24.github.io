@@ -27,12 +27,12 @@ title:  CV
 
 ## **EXPERIENCE**
 
-### Prompt Specificity - Unlocking Secrets of LLM Behavior  
+### Prompt Specificity - Unlocking Secrets of LLM Behavior ([GitHub](https://github.com/06Anirudh24/CS4_Benchmark)) 
 **Amazon Research**  (January 2024 – August 2024) 
 **Supervisors:** [Prof. Andrew McCallum](https://scholar.google.com/citations?user=yILa1y0AAAAJ&hl=en), [Dr. Haw-Shiuan Chang](https://ken77921.github.io/)  
 - Conducted an in-depth analysis on the effect of prompt specificity on the performance of Large Language Models (LLMs) in long-form text generation, developing a novel benchmark dataset for evaluating LLM-generated narratives. [Accepted at WNU workshop, EMNLP]
 - Designed and implemented an evaluation benchmark to assess the trade-off between instruction satisfaction and long-form text generation quality, noting over 30% depreciation in LLM performance due to the trade-off.
-- Analyzed the impact of prompt specificity on 7B models to understand training data properties and their effects on different stages of model training, including supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF).
+- Analyzed the impact of prompt specificity on 7B models to understand training data properties and their effects on different stages of model training, including supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF). [[Published]](https://arxiv.org/pdf/2410.04197)
 
 ### Database Migration  
 **Database Administrator at First Meridian - OnSolve LLC** (January 2023 – June 2023 in Bangalore, India) 
