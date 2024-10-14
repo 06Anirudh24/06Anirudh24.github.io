@@ -1,0 +1,1 @@
+This is my NLP paper reading list! Here, I maintain a list of papers that I consider important for understanding the fundamentals of NLP. I also add papers that I enjoyed reading the most in each of these sub-domains and try to update the list frequently.
