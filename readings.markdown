@@ -35,22 +35,22 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 
 ***
 # Evaluation and Factuality
--[BLEURT: robust metrics for text generation](https://arxiv.org/pdf/2004.04696) (2020)
--[Judging LLM as a Judge with MT-Bench and Chatbot Arena](https://arxiv.org/pdf/2306.05685) (2023)
--[FactScore: Fine-grained atomic evaluation of factual precision](https://arxiv.org/pdf/2305.14251) (2023)
+- [BLEURT: robust metrics for text generation](https://arxiv.org/pdf/2004.04696) (2020)
+- [Judging LLM as a Judge with MT-Bench and Chatbot Arena](https://arxiv.org/pdf/2306.05685) (2023)
+- [FactScore: Fine-grained atomic evaluation of factual precision](https://arxiv.org/pdf/2305.14251) (2023)
 - [AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web](https://arxiv.org/abs/2305.13117) (2023)
 - [Long-form factuality in large language models](https://arxiv.org/pdf/2403.18802) - SAFE Score (2024)
--[BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://arxiv.org/abs/2310.00785) (2024)
--[Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference] (2024)
--[Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices](https://www.arxiv.org/pdf/2408.09169) (2024)
--[Enabling Language Models to Implicitly Learn Self-Improvement](https://arxiv.org/abs/2310.00898) (2024)
--[VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation](https://arxiv.org/abs/2406.19276) (2024)
--[Suri: Multi-constraint Instruction Following for Long-form Text Generation](https://arxiv.org/abs/2406.19371) (2024)
+- [BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://arxiv.org/abs/2310.00785) (2024)
+- [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference] (2024)
+- [Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices](https://www.arxiv.org/pdf/2408.09169) (2024)
+- [Enabling Language Models to Implicitly Learn Self-Improvement](https://arxiv.org/abs/2310.00898) (2024)
+- [VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation](https://arxiv.org/abs/2406.19276) (2024)
+- [Suri: Multi-constraint Instruction Following for Long-form Text Generation](https://arxiv.org/abs/2406.19371) (2024)
 
 *** 
 # Creativity and Narrative Writing
--[AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/pdf/2410.04265v1) (2024)
--[Are Large Language Models Capable of Generating Human-Level Narratives?](https://arxiv.org/abs/2407.13248) (2024)
+- [AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/pdf/2410.04265v1) (2024)
+- [Are Large Language Models Capable of Generating Human-Level Narratives?](https://arxiv.org/abs/2407.13248) (2024)
 
 *** 
 # RAG and Personalization
@@ -62,10 +62,10 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 
 ***
 # Prompt Engineering and In-context Learning
--[Rethinking the role of demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837) (2022)
--[Blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) on different prompting strategies (2023)
--[What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
--[To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
+- [Rethinking the role of demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837) (2022)
+- [Blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) on different prompting strategies (2023)
+- [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
+- [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
 - [LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2410.05362) (2024)
 
 ***
