@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Reading List
 ---
 
 This is my NLP paper reading list! Here, I maintain a list of papers (and posts) that I consider important for understanding the fundamentals of NLP. I also add papers I enjoyed reading the most in different sub-domains and try to update the list frequently.
@@ -28,15 +28,29 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - An excellent, easy-to-read [blog](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) explaining the the need for RLHF. (2023)
 - [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/pdf/2309.00267) (2023)
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) (2023)
+- [Fine-tuning Language Models for Factuality](https://arxiv.org/pdf/2311.08401) (2023)
+- [Alignment for Honesty](https://arxiv.org/abs/2312.07000) (2023)
 - [Understanding the effects of rlhf on llm generalisation and diversity](https://arxiv.org/abs/2310.06452)(2024)
-- Huggingface's [blog post](https://huggingface.co/blog/pref-tuning) on DPO v/s IPO v/s KTO. 
+- Huggingface's [blog post](https://huggingface.co/blog/pref-tuning) on DPO v/s IPO v/s KTO. (2024)
 
 ***
-# Evaluation
+# Evaluation and Factuality
 -[BLEURT: robust metrics for text generation](https://arxiv.org/pdf/2004.04696) (2020)
 -[Judging LLM as a Judge with MT-Bench and Chatbot Arena](https://arxiv.org/pdf/2306.05685) (2023)
 -[FactScore: Fine-grained atomic evaluation of factual precision](https://arxiv.org/pdf/2305.14251) (2023)
+- [AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web](https://arxiv.org/abs/2305.13117) (2023)
+- [Long-form factuality in large language models](https://arxiv.org/pdf/2403.18802) - SAFE Score (2024)
 -[BooookScore: A systematic exploration of book-length summarization in the era of LLMs](https://arxiv.org/abs/2310.00785) (2024)
+-[Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference] (2024)
+-[Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices](https://www.arxiv.org/pdf/2408.09169) (2024)
+-[Enabling Language Models to Implicitly Learn Self-Improvement](https://arxiv.org/abs/2310.00898) (2024)
+-[VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation](https://arxiv.org/abs/2406.19276) (2024)
+-[Suri: Multi-constraint Instruction Following for Long-form Text Generation](https://arxiv.org/abs/2406.19371) (2024)
+
+*** 
+# Creativity and Narrative Writing
+-[AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/pdf/2410.04265v1) (2024)
+-[Are Large Language Models Capable of Generating Human-Level Narratives?](https://arxiv.org/abs/2407.13248) (2024)
 
 *** 
 # RAG and Personalization
@@ -51,6 +65,8 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 -[Rethinking the role of demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837) (2022)
 -[Blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) on different prompting strategies (2023)
 -[What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
+-[To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
+- [LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2410.05362) (2024)
 
 ***
 # Detecting LLM-generated Text
