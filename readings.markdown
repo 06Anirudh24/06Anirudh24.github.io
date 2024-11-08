@@ -25,7 +25,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 # LLM Alignment
 - [Training language models to follow instructions with human feedback](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf) - RLHF Paper (2022)
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073) (2022)
-- An excellent, easy-to-read [blog](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) explaining the the need for RLHF. (2023)
+- An excellent, easy-to-read [blog](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) explaining the need for RLHF. (2023)
 - [RLAIF vs. RLHF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/pdf/2309.00267) (2023)
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) (2023)
 - [Fine-tuning Language Models for Factuality](https://arxiv.org/pdf/2311.08401) (2023)
