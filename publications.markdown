@@ -59,7 +59,7 @@ My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuse
 
 ## 2020
 
-- **CS4: Mathematical modeling and the transmission dynamics in predicting the Covid-19-What next in combating the pandemic**
+- **CMathematical modeling and the transmission dynamics in predicting the Covid-19-What next in combating the pandemic**
   <br>**Authors**: <u>A Anirudh</u> 
   <br>Infectious Disease Modelling 5, 366-374
   <a href="https://doi.org/10.1016/j.idm.2020.06.002" target="_blank">[Link to Paper]</a>
