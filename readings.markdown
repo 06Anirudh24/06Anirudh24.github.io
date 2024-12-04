@@ -51,6 +51,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 # Creativity and Narrative Writing
 - [AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/pdf/2410.04265v1) (2024)
 - [Are Large Language Models Capable of Generating Human-Level Narratives?](https://arxiv.org/abs/2407.13248) (2024)
+- [Art or Artifice? Large Language Models and the False Promise of Creativity](https://dl.acm.org/doi/abs/10.1145/3613904.3642731) (2024)
 
 *** 
 # RAG and Personalization
