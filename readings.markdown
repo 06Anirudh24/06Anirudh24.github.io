@@ -34,7 +34,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - Huggingface's [blog post](https://huggingface.co/blog/pref-tuning) on DPO v/s IPO v/s KTO. (2024)
 
 ***
-# Evaluation and Factuality
+# Evaluation, Factuality, and Long-context
 - [BLEURT: robust metrics for text generation](https://arxiv.org/pdf/2004.04696) (2020)
 - [Judging LLM as a Judge with MT-Bench and Chatbot Arena](https://arxiv.org/pdf/2306.05685) (2023)
 - [FactScore: Fine-grained atomic evaluation of factual precision](https://arxiv.org/pdf/2305.14251) (2023)
@@ -45,7 +45,9 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices](https://www.arxiv.org/pdf/2408.09169) (2024)
 - [Enabling Language Models to Implicitly Learn Self-Improvement](https://arxiv.org/abs/2310.00898) (2024)
 - [VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation](https://arxiv.org/abs/2406.19276) (2024)
-- [Suri: Multi-constraint Instruction Following for Long-form Text Generation](https://arxiv.org/abs/2406.19371) (2024)
+- [On Positional Bias of Faithfulness for Long-form Summarization](https://arxiv.org/html/2410.23609v1) (2024)
+- [One Thousand and One Pairs: A “novel” challenge for long-context language models](https://arxiv.org/pdf/2406.16264) (2024) - Nocha for long-context 
+- [HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly](https://arxiv.org/pdf/2410.02694) (2024)
 
 *** 
 # Creativity and Narrative Writing
@@ -54,12 +56,16 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://dl.acm.org/doi/abs/10.1145/3613904.3642731) (2024)
 
 *** 
-# RAG and Personalization
-- [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909) (2020)
-- [LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406) (2023)
+# RAG 
+- [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909) (2020) 
 - [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214) (2023)
 - [Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3626772.3657957) (2024)
+
+*** 
+# LLM Personalization
+- [LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406) (2023)
 - [LongLaMP: A Benchmark for Personalized Long-form Text Generation](https://arxiv.org/pdf/2407.11016) (2024)
+
 
 ***
 # Prompt Engineering and In-context Learning
@@ -74,3 +80,4 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [A Watermark for Large Language Models](https://arxiv.org/pdf/2301.10226) (2023)
 - [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/pdf/2303.13408) (2023)
 - [PostMark: A Robust Blackbox Watermark for Large Language Models](https://arxiv.org/pdf/2406.14517) (2024)
+- [Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/pdf/2401.12070) (2024)
