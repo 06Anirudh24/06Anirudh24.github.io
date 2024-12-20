@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and Responsibilities
+title: Responsibilities
 ---
 
 ## Teaching
