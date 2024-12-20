@@ -41,7 +41,7 @@
 <div style="text-align: justify;">
 
 <br><br>
-Hi there! My name is Anirudh, and I use he/him pronouns. I am a second-year graduate student pursuing a Master's in Computer Science at the <b>University of Massachusetts Amherst</b>. I previously graduated with distinction from Birla Institute of Technology and Science, Pilani (BITS Pilani), India, where I pursued a dual major (B.E. in Computer Science and M.Sc. in Mathematics). I'm looking to explore the real-world applications of data science and machine learning, particularly in Natural Language Processing (NLP). Toward this end, I am particularly keen on improving the reliability and applicability of Large Language Models (LLMs) without relying on scaling laws. My research interests include: 
+Hi there! My name is Anirudh, and I use he/him pronouns. I am a second-year graduate student pursuing a Master's in Computer Science at the <b>University of Massachusetts Amherst</b>. I previously graduated with distinction from Birla Institute of Technology and Science, Pilani (BITS Pilani), India, where I pursued a dual major (B.E. in Computer Science and M.Sc. in Mathematics). I'm looking to explore the real-world applications of data science and machine learning, particularly in Natural Language Processing (NLP). Toward this end, I am keen on improving the reliability and applicability of Large Language Models (LLMs) without relying on scaling laws. My research interests include: 
 <ol>
   <li> <b>Factuality</b> – ensuring trustworthiness and mitigating hallucinations by encouraging more causal inferences and fewer guesses, particularly in long-context and long-form text generation tasks.</li>
   <li><b>Instruction-following</b> ability of LLMs.</li>
