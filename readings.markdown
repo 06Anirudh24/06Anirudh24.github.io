@@ -88,6 +88,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 # Prompt Engineering and In-context Learning
 - [Rethinking the role of demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837) (2022)
 - [Blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) on different prompting strategies. (2023)
+- [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
 - [LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2410.05362) (2024)
 - [More Samples or More Prompts? Exploring Effective Few-Shot In-Context Learning for LLMs with In-Context Sampling](https://aclanthology.org/2024.findings-naacl.115.pdf)(2024)
 
@@ -103,7 +104,6 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 *** 
 # Reasoning and Chain-of-Thought
 - [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/pdf/2210.01240)(2022)
-- [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
 - [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
 - [Iterative reasoning preference optimization](https://arxiv.org/pdf/2404.19733)(2024)
 - [It’s Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning](https://aclanthology.org/2024.findings-acl.604.pdf)(2024)
