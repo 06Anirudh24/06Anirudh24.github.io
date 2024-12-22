@@ -32,6 +32,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [Alignment for Honesty](https://arxiv.org/abs/2312.07000) (2023)
 - [Understanding the effects of rlhf on llm generalisation and diversity](https://arxiv.org/abs/2310.06452)(2024)
 - Huggingface's [blog post](https://huggingface.co/blog/pref-tuning) on DPO v/s IPO v/s KTO. (2024)
+- [Weak-to-strong extrapolation expedites alignment](https://arxiv.org/pdf/2404.16792)(2024)
 
 ***
 # Evaluation, Factuality, and Long-context
@@ -65,7 +66,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 # LLM Personalization
 - [LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406) (2023)
 - [LongLaMP: A Benchmark for Personalized Long-form Text Generation](https://arxiv.org/pdf/2407.11016) (2024)
-
+- [Exploring Safety-Utility Trade-Offs in Personalized Language Models](https://arxiv.org/pdf/2406.11107) (2024)
 
 ***
 # Prompt Engineering and In-context Learning
@@ -74,6 +75,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
 - [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
 - [LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2410.05362) (2024)
+
 
 ***
 # Detecting LLM-generated Text
