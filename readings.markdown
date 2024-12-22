@@ -20,6 +20,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 # Parameter-efficient Adoption of LLMs
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) (2021)
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691) (2023)
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf)(2023)
 
 ***
 # LLM Alignment
@@ -30,9 +31,12 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) (2023)
 - [Fine-tuning Language Models for Factuality](https://arxiv.org/pdf/2311.08401) (2023)
 - [Alignment for Honesty](https://arxiv.org/abs/2312.07000) (2023)
+- [Are aligned neural networks adversarially aligned?](https://proceedings.neurips.cc/paper_files/paper/2023/file/c1f0b856a35986348ab3414177266f75-Paper-Conference.pdf)(2023)
 - [Understanding the effects of rlhf on llm generalisation and diversity](https://arxiv.org/abs/2310.06452)(2024)
 - Huggingface's [blog post](https://huggingface.co/blog/pref-tuning) on DPO v/s IPO v/s KTO. (2024)
 - [Weak-to-strong extrapolation expedites alignment](https://arxiv.org/pdf/2404.16792)(2024)
+- [Unpacking DPO and PPO: Disentangling Best Practices for Learning from Prefere](https://arxiv.org/pdf/2406.09279)(2024)
+
 
 ***
 # Evaluation, Factuality, and Long-context
@@ -49,32 +53,43 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [On Positional Bias of Faithfulness for Long-form Summarization](https://arxiv.org/html/2410.23609v1) (2024)
 - [One Thousand and One Pairs: A “novel” challenge for long-context language models](https://arxiv.org/pdf/2406.16264) (2024) - Nocha for long-context 
 - [HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly](https://arxiv.org/pdf/2410.02694) (2024)
+- [Foundational Autoraters: Taming Large Language Models for Better Automatic Evaluation](https://arxiv.org/pdf/2407.10817?)(2024)
+- [Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation](https://arxiv.org/pdf/2411.07130)(2024)
+- [Evaluating large language models at evaluating instruction following](https://arxiv.org/pdf/2310.07641)(2024)
+- [Evaluating correctness and faithfulness of instruction-following models for question answering](https://arxiv.org/pdf/2307.16877)(2024)
 
 *** 
 # Creativity and Narrative Writing
+- [THE GENERATIVE AI PARADOX:“What It Can Create, It May Not Understand”](https://openreview.net/pdf?id=CF8H8MS5P8)(2023)
+- [It’s not Rocket Science: Interpreting Figurative Language in Narratives](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00478/111221/It-s-not-Rocket-Science-Interpreting-Figurative)(2022)
 - [AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text](https://arxiv.org/pdf/2410.04265v1) (2024)
 - [Are Large Language Models Capable of Generating Human-Level Narratives?](https://arxiv.org/abs/2407.13248) (2024)
 - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://dl.acm.org/doi/abs/10.1145/3613904.3642731) (2024)
+- [A Design Space for Intelligent and Interactive Writing Assistants](https://dl.acm.org/doi/pdf/10.1145/3613904.3642697)(2024)
+
 
 *** 
 # RAG 
 - [REALM: Retrieval-Augmented Language Model Pre-Training](https://arxiv.org/pdf/2002.08909) (2020) 
 - [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214) (2023)
 - [Evaluating Retrieval Quality in Retrieval-Augmented Generation](https://dl.acm.org/doi/abs/10.1145/3626772.3657957) (2024)
+- [RECOMP: Improving Retrieval-Augmented LMs with Context Compression and Selective Augmentation](https://openreview.net/pdf?id=mlJLVigNHp)(2024)
 
 *** 
 # LLM Personalization
 - [LaMP: When Large Language Models Meet Personalization](https://arxiv.org/abs/2304.11406) (2023)
+- [Are personalized stochastic parrots more dangerous? evaluating persona biases in dialogue systems](https://arxiv.org/pdf/2310.05280)(2023)
 - [LongLaMP: A Benchmark for Personalized Long-form Text Generation](https://arxiv.org/pdf/2407.11016) (2024)
 - [Exploring Safety-Utility Trade-Offs in Personalized Language Models](https://arxiv.org/pdf/2406.11107) (2024)
+- [Learning to Rewrite Prompts for Personalized Text Generation](https://dl.acm.org/doi/pdf/10.1145/3589334.3645408)(2024)
+- [Learning Personalized Alignment in Evaluating Open-ended Text Generation](https://aclanthology.org/2024.emnlp-main.737.pdf)(2024)
 
 ***
 # Prompt Engineering and In-context Learning
 - [Rethinking the role of demonstrations: What Makes In-Context Learning Work?](https://arxiv.org/pdf/2202.12837) (2022)
 - [Blog](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/) on different prompting strategies. (2023)
-- [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
-- [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
 - [LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2410.05362) (2024)
+- [More Samples or More Prompts? Exploring Effective Few-Shot In-Context Learning for LLMs with In-Context Sampling](https://aclanthology.org/2024.findings-naacl.115.pdf)(2024)
 
 
 ***
@@ -83,3 +98,20 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense](https://arxiv.org/pdf/2303.13408) (2023)
 - [PostMark: A Robust Blackbox Watermark for Large Language Models](https://arxiv.org/pdf/2406.14517) (2024)
 - [Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text](https://arxiv.org/pdf/2401.12070) (2024)
+- [Red Teaming Language Model Detectors with Language Models](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00639/119629)(2024)
+
+*** 
+# Reasoning and Chain-of-Thought
+-[Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/pdf/2210.01240)(2022)
+- [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
+- [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
+- [Iterative reasoning preference optimization](https://arxiv.org/pdf/2404.19733)(2024)
+- [It’s Not Easy Being Wrong: Large Language Models Struggle with Process of Elimination Reasoning](https://aclanthology.org/2024.findings-acl.604.pdf)(2024)
+- [Language Models Still Struggle to Zero-shot Reason about Time Series](https://arxiv.org/pdf/2404.11757)(2024)
+- [Language models can improve event prediction by few-shot abductive reasoning](https://proceedings.neurips.cc/paper_files/paper/2023/file/5e5fd18f863cbe6d8ae392a93fd271c9-Paper-Conference.pdf)(2024)
+
+*** 
+# Bio-NLP
+-[Paper Plain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing](https://dl.acm.org/doi/full/10.1145/3589955)(2023)
+-[On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://arxiv.org/pdf/2404.00152)(2024)
+-[JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability](https://arxiv.org/pdf/2402.17887)(2024)
