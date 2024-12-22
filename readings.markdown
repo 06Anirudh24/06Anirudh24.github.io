@@ -102,7 +102,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 
 *** 
 # Reasoning and Chain-of-Thought
--[Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/pdf/2210.01240)(2022)
+- [Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought](https://arxiv.org/pdf/2210.01240)(2022)
 - [What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/pdf?id=0g0X4H8yN4I) (2023)
 - [To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning](https://arxiv.org/abs/2409.12183) (2024)
 - [Iterative reasoning preference optimization](https://arxiv.org/pdf/2404.19733)(2024)
@@ -112,6 +112,6 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 
 *** 
 # Bio-NLP
--[Paper Plain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing](https://dl.acm.org/doi/full/10.1145/3589955)(2023)
--[On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://arxiv.org/pdf/2404.00152)(2024)
--[JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability](https://arxiv.org/pdf/2402.17887)(2024)
+- [Paper Plain: Making Medical Research Papers Approachable to Healthcare Consumers with Natural Language Processing](https://dl.acm.org/doi/full/10.1145/3589955)(2023)
+- [On-the-fly Definition Augmentation of LLMs for Biomedical NER](https://arxiv.org/pdf/2404.00152)(2024)
+- [JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability](https://arxiv.org/pdf/2402.17887)(2024)
