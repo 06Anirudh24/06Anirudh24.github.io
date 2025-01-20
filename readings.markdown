@@ -66,6 +66,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [Are Large Language Models Capable of Generating Human-Level Narratives?](https://arxiv.org/abs/2407.13248) (2024)
 - [Art or Artifice? Large Language Models and the False Promise of Creativity](https://dl.acm.org/doi/abs/10.1145/3613904.3642731) (2024)
 - [A Design Space for Intelligent and Interactive Writing Assistants](https://dl.acm.org/doi/pdf/10.1145/3613904.3642697)(2024)
+- [Echoes in AI: Quantifying Lack of Plot Diversity in LLM Outputs](https://arxiv.org/pdf/2501.00273)(2024)
 
 
 *** 
