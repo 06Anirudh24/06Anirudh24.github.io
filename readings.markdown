@@ -23,7 +23,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://proceedings.neurips.cc/paper_files/paper/2023/file/1feb87871436031bdc0f2beaa62a049b-Paper-Conference.pdf) (2023)
 
 ***
-# LLM Alignment
+# LLM Alignment and Reinforcement Learning
 - [Training language models to follow instructions with human feedback](https://cdn.openai.com/papers/Training_language_models_to_follow_instructions_with_human_feedback.pdf) - RLHF Paper (2022)
 - [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/pdf/2212.08073) (2022)
 - An excellent, easy-to-read [blog](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81) explaining the need for RLHF. (2023)
@@ -36,6 +36,8 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - Huggingface's [blog post](https://huggingface.co/blog/pref-tuning) on DPO v/s IPO v/s KTO. (2024)
 - [Weak-to-strong extrapolation expedites alignment](https://arxiv.org/pdf/2404.16792) (2024)
 - [Unpacking DPO and PPO: Disentangling Best Practices for Learning from Prefere](https://arxiv.org/pdf/2406.09279) (2024)
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) (2025)
+- One of the best [videos](https://youtu.be/kv8frWeKoeo?si=FrtHoD0CbASIdemz) I've seen about DeepSeek-R1. (2025)
 
 
 ***
@@ -57,6 +59,7 @@ This is my NLP paper reading list! Here, I maintain a list of papers (and posts)
 - [Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation](https://arxiv.org/pdf/2411.07130) (2024)
 - [Evaluating large language models at evaluating instruction following](https://arxiv.org/pdf/2310.07641) (2024)
 - [Evaluating correctness and faithfulness of instruction-following models for question answering](https://arxiv.org/pdf/2307.16877) (2024)
+- [HALoGEN: Fantastic LLM Hallucinations and Where to Find Them](https://arxiv.org/pdf/2501.08292) (2025)
 
 *** 
 # Creativity and Narrative Writing
