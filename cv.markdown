@@ -12,7 +12,7 @@ title:  CV
 ### University of Massachusetts Amherst  
 **Expected Graduation:** May 2025  
 **Master of Science Computer Science**  
-**GPA:** 3.83/4
+**GPA:** 3.89/4
 
 ### Birla Institute of Technology and Science - Pilani (BITS Pilani)  
 **August 2018 – June 2023**  
@@ -137,7 +137,9 @@ February 2020 – May 2020
 
 ## **PUBLICATIONS**
 
-- **Anirudh Atmakuru\***, Jatin Nainani\*, Rohith Siddhartha Reddy Bheemreddy\*, Anirudh Lakkaraju\*, Zonghai Yao, Hamed Zamani, Haw-Shiuan Chang\*, "CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints", *In 6th Workshop on Narrative Understanding (WNU) at Empirical Methods in Natural Language Processing (EMNLP), 2024*. [Accepted]
+- **Anirudh Atmakuru**, Subrata Chakraborty, Massimo Salvi, Oliver Faust, Prabal Datta Barua, Makiko Kobayashi, Ru San Tan, Filippo Molinari, Abdul Hafeez-Baig, U Rajendra Acharya, "Fibromyalgia detection and diagnosis: A systematic review of data-driven approaches and clinical implications (2013-2023)", *IEEE Access (2025)*. [[Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872952)
+
+- **Anirudh Atmakuru\***, Jatin Nainani\*, Rohith Siddhartha Reddy Bheemreddy\*, Anirudh Lakkaraju\*, Zonghai Yao, Hamed Zamani, Haw-Shiuan Chang\*, "CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints", *In 6th Workshop on Narrative Understanding (WNU) at Empirical Methods in Natural Language Processing (EMNLP), 2024*. [[Link]](https://arxiv.org/abs/2410.04197)
 
 - **Anirudh Atmakuru**, Alen Shahini, Subrata Chakraborty, Silvia Seoni, Massimo Salvi, Abdul Hafeez-Baig, Sadaf Rashid, Ru San Tan, Prabal Datta Barua, Filippo Molinari, U Rajendra Acharya, "Artificial Intelligence-based Suicide Prevention and Prediction: A Systematic Review (2019-2023)", *Information Fusion, 102673*. [[Link]](https://doi.org/10.1016/j.inffus.2024.102673)
 
