@@ -7,6 +7,14 @@ My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuse
 
 ---
 
+## 2025
+
+- **Fibromyalgia Detection and Diagnosis: A Systematic Review of Data-Driven Approaches and Clinical Implications**
+  <br>**Authors**: <u>Anirudh Atmakuru</u>, Subrata Chakraborty, Massimo Salvi, Oliver Faust, Prabal Datta Barua, Makiko Kobayashi, Ru San Tan, Filippo Molinari, Abdul Hafeez-Baig, U. Rajendra Acharya
+  <br>IEEE Access (2025) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10872952" target="_blank">[Link to Paper]</a>  
+
+---
+
 ## 2024
 
 - **CS4: Measuring the Creativity of Large Language Models Automatically by Controlling the Number of Story-Writing Constraints**
