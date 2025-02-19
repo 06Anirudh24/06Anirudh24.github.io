@@ -39,7 +39,7 @@ header_pages:
   - about.markdown
   - projects.markdown
   - publications.markdown 
-  - cv.markdown
+  # - cv.markdown
   - readings.markdown
   - responsibilities.markdown
 
