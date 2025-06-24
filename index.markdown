@@ -18,7 +18,7 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
 
 <!-- ![Picture](docs/assets/IMG_0450.JPG) -->
-<img src="docs/assets/IMG_6547.jpg" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;">
+<img src="docs/assets/DP.jpg" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; display: block; margin-left: auto; margin-right: auto;">
 <!-- Icons with links -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuser=1" target="_blank">
