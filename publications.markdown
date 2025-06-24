@@ -28,7 +28,7 @@ My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuse
 
 - **Artificial Intelligence-based Suicide Prevention and Prediction: A Systematic Review (2019-2023)**
   <br>**Authors**: <u>Anirudh Atmakuru</u>, Alen Shahini, Subrata Chakraborty, Silvia Seoni, Massimo Salvi, Abdul Hafeez-Baig, Sadaf Rashid, Ru San Tan, Prabal Datta Barua, Filippo Molinari, U Rajendra Acharya  
-  <br>**Venue**: Information Fusion, 102673 <a href="https://doi.org/10.1016/j.inffus.2024.102673" target="_blank">[Link to Paper]</a>
+  **Venue**: Information Fusion, 102673 <a href="https://doi.org/10.1016/j.inffus.2024.102673" target="_blank">[Link to Paper]</a>
 
 - **Deep learning in radiology for lung cancer diagnostics: A systematic review of classification, segmentation, and predictive modeling techniques**
   <br>**Authors**: <u>Anirudh Atmakuru</u>, Subrata Chakraborty, Oliver Faust, Massimo Salvi, Prabal Datta Barua, Filippo Molinari, UR Acharya, Nusrat Homaira 
