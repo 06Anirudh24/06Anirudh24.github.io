@@ -37,10 +37,10 @@ plugins:
 
 header_pages:
   - about.markdown
-  - projects.markdown
+  # - projects.markdown
   - publications.markdown 
   # - cv.markdown
-  - readings.markdown
+  # - readings.markdown
   - responsibilities.markdown
 
   
