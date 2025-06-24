@@ -5,14 +5,14 @@ title: Responsibilities
 
 ## Teaching Assistantship 
 
-- Grader for the <a href="https://sites.google.com/umass.edu/compsci-696ds-spring-2025?pli=1" target="_blank">COMPSCI 696DS: Industry Mentorship Independent Study - Data Science</a> course at UMass Amherst (January 2025 - May 2025)
-- Teaching assistant for the **Elimentary Real Analysis** course at BITS Pilani (August 2020 - November 2020). 
-- Teaching assistant for the **Probability and Statistics** course at BITS Pilani (January 2020 - April 2020).
+- Grader - <a href="https://sites.google.com/umass.edu/compsci-696ds-spring-2025?pli=1" target="_blank">COMPSCI 696DS: Industry Mentorship Independent Study - Data Science</a> at UMass Amherst (January 2025 - May 2025)
+- Teaching assistant - **Elementary Real Analysis** at BITS Pilani (August 2020 - November 2020). 
+- Teaching assistant - **Probability and Statistics** at BITS Pilani (January 2020 - April 2020).
 
 ---
 ## Reviewing
 
-- I review articles and papers for the <a href="https://onlinelibrary.wiley.com/journal/10981098" target="_blank">International Journal of Imaging Systems and Technology (IMA)</a>. 
+- <a href="https://onlinelibrary.wiley.com/journal/10981098" target="_blank">International Journal of Imaging Systems and Technology (IMA)</a> (2024, 2025) 
 
 ---
 
