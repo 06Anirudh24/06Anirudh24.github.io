@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://x.com/aatmakuru6" target="_blank">
-    <i class="fab fa-x-twitter" style="font-size: 36px; margin-right: 20px;"></i>
+    <i class="fab fa-twitter" style="font-size: 36px; margin-right: 20px;"></i>
   </a>
   
   <a href="mailto:aa2886@cornell.edu" target="_blank">
