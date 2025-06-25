@@ -60,8 +60,12 @@ In the past, I have worked with  <a href="https://www.une.edu.au/staff-profiles/
 <!-- News section -->
 <div class="news-box">
 <ul>
-<li><strong>September 2024:</strong> Paper accepted at the 6th Workshop on Narrative Understanding at EMNLP 2024!!</li>
-<li><strong>September 2024:</strong> Started working on an independent study with <a href="https://people.cs.umass.edu/~miyyer/">Prof. Mohit Iyyer</a> at <a href="https://nlp.cs.umass.edu/">UMass NLP</a> to study the impact of LLM quantization on factuality and instruction-following on long-form text generation.</li>
+<li><strong>May 2025:</strong> Graduated from UMass Amherst with a Master of Science in Computer Science!</li>
+<li><strong>May 2025:</strong> Check out our new <a href="https://arxiv.org/pdf/2505.20276">paper</a> on the impact of quantization on long-form and long-context tasks!</li>
+<li><strong>April 2025:</strong> Accepted a PhD offer from Cornell University under the supervision of <a href="https://tagoyal.github.io/">Prof. Tanya Goyal</a> at <a href="https://nlp.cornell.edu/">Cornell NLP</a>.</li>
+<li><strong>February 2025:</strong> Appointed as a grader for the <a href="https://sites.google.com/umass.edu/compsci-696ds-spring-2025?pli=1" target="_blank">COMPSCI 696DS: Industry Mentorship Independent Study - Data Science</a> course at UMass.</li>
+<li><strong>September 2024:</strong> <a href = "https://arxiv.org/abs/2410.04197">Paper</a> on instruction-following and creative writing accepted at the 6th Workshop on Narrative Understanding at EMNLP 2024!!</li>
+<li><strong>September 2024:</strong> Started working on an independent study with <a href="https://people.cs.umass.edu/~miyyer/">Prof. Mohit Iyyer</a> at <a href="https://nlp.cs.umass.edu/">UMass NLP</a> to study the impact of LLM quantization on factuality, instruction-following, and long-context reasoning.</li>
 <li><strong>August 2024:</strong> <a href="https://doi.org/10.1016/j.inffus.2024.102673">Systematic review</a> on the applications of artificial intelligence for suicide detection accepted by the journal <em>Information Fusion</em> (Q1; IF: 14.7; Cite Score: 33.2).</li>
 <li><strong>July 2024:</strong> <a href = "https://doi.org/10.1016/j.eswa.2024.124665">Systematic review</a> on the applications of deep learning in radiology for lung cancer diagnostics accepted by the journal <em>Expert Systems with Applications</em> (Q1; IF: 7.5; Cite Score: 13.8).</li>
 <li><strong>January 2024:</strong> Collaborating with Amazon on an industry mentorship project to study the impact of prompt specificity on LLMs (advised by <a href="https://people.cs.umass.edu/~mccallum/">Prof. Andrew McCallum</a> and <a href="https://ken77921.github.io/">Haw-Shiuan Chang</a>).</li>
