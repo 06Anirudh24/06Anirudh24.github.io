@@ -9,9 +9,9 @@ title: About Me
 </style>  
 
 <div style="text-align: justify;">
-  Hello! I'm Anirudh from the lively city of <a href="https://en.wikipedia.org/wiki/Chennai">Chennai</a>, India. Growing up, I was fortunate to spend a lot of time with my grandmother, who holds a special place in my heart. The moments we've shared are some of my most treasured memories. 
+  Hello! I'm Anirudh from the lively city of <a href="https://en.wikipedia.org/wiki/Chennai">Chennai</a>, India. 
 
-  In my free time, I enjoy reading about astronomy and learning more about wildlife and marine life. I also love listening to <a href="https://en.wikipedia.org/wiki/Carnatic_music#:~:text=Carnatic%20music%2C%20known%20as%20Karn%C4%81%E1%B9%ADaka,south%20Telangana%20and%20southern%20Odisha.">Carnatic music</a>. Whenever I can, I spend time playing cricket, swimming, or biking. Traveling excites me, and I love discovering new places and trying anything adventurous, such as trekking, snorkeling, scuba diving, and skydiving. I've been lucky to visit over 20 countries and explore many parts of India along the way. 
+  In my free time, I enjoy reading about astronomy and learning about wildlife and marine life. I also love listening to <a href="https://en.wikipedia.org/wiki/Carnatic_music#:~:text=Carnatic%20music%2C%20known%20as%20Karn%C4%81%E1%B9%ADaka,south%20Telangana%20and%20southern%20Odisha.">Carnatic music</a>. Whenever I can, I spend time playing cricket, swimming, or biking. Traveling and backpacking excite me, and I love discovering new places and trying anything adventurous, such as skiing, trekking, snorkeling, scuba diving, and skydiving. I've been lucky to visit over 20 countries and explore many parts of India along the way. 
 
   Looking ahead, I have a few goals that I'm really passionate about:
 
