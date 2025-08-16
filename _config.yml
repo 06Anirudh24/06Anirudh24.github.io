@@ -19,7 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Anirudh Atmakuru"
-author: "" # Leave this empty to avoid repeating your name
+author: ""# Leave this empty to avoid repeating your name
+url: "https://06anirudh24.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 # email: aatmakuru@umass.edu
 #description: # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,13 +33,20 @@ author: "" # Leave this empty to avoid repeating your name
 #linkedin_username: anirudh-atmakuru-a8474b213
 #github_username:  06Anirudh24 
 
+social:
+  name: "Anirudh Atmakuru"
+  links:
+    - https://www.linkedin.com/in/anirudh-atmakuru-a8474b213/
+    - https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuser=1
+    - https://x.com/aatmakuru6
+
+# paste the verification code value from GSC here (not the whole meta tag)
+# <meta name="google-site-verification" content="fYq7dcU5x_DOEaZJW5-6Ny8cQMVhlYapJHGDd6LKvPE" />
+google_site_verification: "fYq7dcU5x_DOEaZJW5-6Ny8cQMVhlYapJHGDd6LKvPE"
 
 # Build settings
 theme: minima
-# remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-feed
-  # - jekyll-remote-theme
+
 
 header_pages:
   - about.markdown
