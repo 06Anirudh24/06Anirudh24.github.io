@@ -46,7 +46,7 @@
 <div style="text-align: justify;">
 
 <br><br>
-Hi there! My name is Anirudh Atmakuru, and I use he/him pronouns. I am a first-year Ph.D. student in Computer Science at <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a>, where I will be advised by <a href="https://tagoyal.github.io/" target="_blank">Prof. Tanya Goyal</a>. My research interests are primarily in the field of Natural Language Processing. Some of the research directions I’m especially excited about include:
+Hi there! My name is Anirudh Atmakuru, and I use he/him pronouns. I am a first-year Ph.D. student in Computer Science at <a href="https://www.cs.cornell.edu/" target="_blank">Cornell University</a>, where I am advised by <a href="https://tagoyal.github.io/" target="_blank">Prof. Tanya Goyal</a>. My research interests are primarily in the field of Natural Language Processing. Some of the research directions I’m especially excited about include:
 <ol>
   <li> <b>Factuality</b> – Ensuring trustworthiness and mitigating hallucinations by encouraging more causal inferences and fewer guesses, particularly in long-context and long-form text generation tasks.</li>
   <li><b>Instruction-following</b> ability of LLMs.</li>
