@@ -62,7 +62,7 @@ Previously, I completed my master's degree in Computer Science at <a href="https
 <!-- News section -->
 <div class="news-box">
 <ul>
-<li><strong>Nov 2025:</strong> Presented our <a href="https://arxiv.org/pdf/2505.20276" target="_blank">paper</a> on Quantization at <a href="https://2025.emnlp.org/" target="_blank">EMNLP</a>, China.</li>
+<li><strong>Nov 2025:</strong> Presented our <a href="https://arxiv.org/pdf/2505.20276" target="_blank">paper</a> on Quantization at <a href="https://2025.emnlp.org/" target="_blank">EMNLP</a>(2025) in China.</li>
 <li><strong>May 2025:</strong> Graduated from UMass Amherst with a Master of Science in Computer Science!</li>
 <li><strong>May 2025:</strong> Check out our new <a href="https://arxiv.org/pdf/2505.20276" target="_blank">paper</a> on the impact of quantization on long-form and long-context tasks!</li>
 <li><strong>April 2025:</strong> Accepted a PhD offer from Cornell University under the supervision of <a href="https://tagoyal.github.io/" target="_blank">Prof. Tanya Goyal</a> at <a href="https://nlp.cornell.edu/" target="_blank">Cornell NLP</a>.</li>
