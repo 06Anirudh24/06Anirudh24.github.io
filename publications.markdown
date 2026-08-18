@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuser=1" target="_blank">[Google Scholar]</a>. I have published under the names Anirudh Atmakuru and A Anirudh.
+My <a href="https://scholar.google.com/citations?user=wknj4_8AAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>. I have published under the names Anirudh Atmakuru and A Anirudh.
 
 ---
 
