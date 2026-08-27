@@ -395,6 +395,19 @@ details.older-news .news-list {
   height: 18px;
 }
 
+.visit-tracker {
+  display: inline-block;
+  margin-top: 20px;
+  line-height: 0;
+  opacity: 0.35;
+}
+
+.visit-tracker img {
+  display: block;
+  width: 8px;
+  height: 5px;
+}
+
 /* Footer */
 .site-footer {
   padding-top: 22px;
